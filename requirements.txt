@@ -7,3 +7,4 @@ psycopg2-binary>=2.9
 werkzeug>=3.1
 gunicorn>=23.0
 requests>=2.31
+python-dotenv>=1.0.0
