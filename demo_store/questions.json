@@ -1,0 +1,427 @@
+[
+ {
+  "id": "V01",
+  "type": "answerable",
+  "question": "price of VRT-1001",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ]
+ },
+ {
+  "id": "V02",
+  "type": "answerable",
+  "question": "is VRT-1005 in stock?",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1005"
+  ]
+ },
+ {
+  "id": "V03",
+  "type": "answerable",
+  "question": "how much is the Halo ANC Wireless Headphones",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ]
+ },
+ {
+  "id": "V04",
+  "type": "answerable",
+  "question": "battery life of Orbit True Wireless Earbuds",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1004"
+  ]
+ },
+ {
+  "id": "V05",
+  "type": "answerable",
+  "question": "weight of the Glide Wireless Mouse",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1010"
+  ]
+ },
+ {
+  "id": "V06",
+  "type": "answerable",
+  "question": "price of the VoltMax power bank",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1008"
+  ]
+ },
+ {
+  "id": "V07",
+  "type": "answerable",
+  "question": "specs of VRT-1006",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1006"
+  ]
+ },
+ {
+  "id": "V08",
+  "type": "answerable",
+  "question": "details of VRT-2003",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2003"
+  ]
+ },
+ {
+  "id": "V09",
+  "type": "answerable",
+  "question": "kitna hai VRT-1004",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1004"
+  ]
+ },
+ {
+  "id": "V10",
+  "type": "answerable",
+  "question": "vacuum insulated bottle",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4002"
+  ]
+ },
+ {
+  "id": "V11",
+  "type": "answerable",
+  "question": "electric kettle price",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4004"
+  ]
+ },
+ {
+  "id": "V12",
+  "type": "answerable",
+  "question": "desk lamp with dimmer",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4006"
+  ]
+ },
+ {
+  "id": "V13",
+  "type": "answerable",
+  "question": "cordless beard trimmer",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5004"
+  ]
+ },
+ {
+  "id": "V14",
+  "type": "answerable",
+  "question": "skipping rope",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6003"
+  ]
+ },
+ {
+  "id": "V15",
+  "type": "answerable",
+  "question": "training football",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6005"
+  ]
+ },
+ {
+  "id": "V16",
+  "type": "answerable",
+  "question": "sunscreen spf 50",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5001"
+  ]
+ },
+ {
+  "id": "V17",
+  "type": "answerable",
+  "question": "is the yoga mat available",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6001"
+  ]
+ },
+ {
+  "id": "V18",
+  "type": "answerable",
+  "question": "price of VRT-4001",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4001"
+  ]
+ },
+ {
+  "id": "V19",
+  "type": "budget",
+  "question": "headphones under 3000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1002",
+   "VRT-1003"
+  ]
+ },
+ {
+  "id": "V20",
+  "type": "budget",
+  "question": "backpack under 1500",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8002"
+  ]
+ },
+ {
+  "id": "V21",
+  "type": "budget",
+  "question": "steel bottle under 700",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4001"
+  ]
+ },
+ {
+  "id": "V22",
+  "type": "ambiguous",
+  "question": "What is the price of the blue running shoe?",
+  "expected": "clarify"
+ },
+ {
+  "id": "V23",
+  "type": "ambiguous",
+  "question": "price of the backpack",
+  "expected": "clarify"
+ },
+ {
+  "id": "V24",
+  "type": "ambiguous",
+  "question": "how much is the headphones",
+  "expected": "clarify"
+ },
+ {
+  "id": "V25",
+  "type": "ambiguous",
+  "question": "what does the bottle cost",
+  "expected": "clarify"
+ },
+ {
+  "id": "V26",
+  "type": "answerable",
+  "question": "is the blue running shoe in stock",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3001",
+   "VRT-3002"
+  ],
+  "note": "Three blue running shoes exist, but only two are in stock. Listing exactly those two (cited) is correct; a clarifying question is only needed when the answer would otherwise require guessing which one (e.g. a price question)."
+ },
+ {
+  "id": "V27",
+  "type": "out_of_catalogue",
+  "question": "do you sell iPhones?",
+  "expected": "refuse"
+ },
+ {
+  "id": "V28",
+  "type": "out_of_catalogue",
+  "question": "samsung galaxy phone price",
+  "expected": "refuse"
+ },
+ {
+  "id": "V29",
+  "type": "out_of_catalogue",
+  "question": "do you have a PlayStation 5",
+  "expected": "refuse"
+ },
+ {
+  "id": "V30",
+  "type": "out_of_catalogue",
+  "question": "wedding sarees",
+  "expected": "refuse"
+ },
+ {
+  "id": "V31",
+  "type": "out_of_catalogue",
+  "question": "gaming chair",
+  "expected": "refuse"
+ },
+ {
+  "id": "V32",
+  "type": "out_of_catalogue",
+  "question": "refrigerator",
+  "expected": "refuse"
+ },
+ {
+  "id": "V33",
+  "type": "out_of_catalogue",
+  "question": "nike air max",
+  "expected": "refuse"
+ },
+ {
+  "id": "V34",
+  "type": "ambiguous",
+  "question": "do you sell laptops?",
+  "expected": "clarify",
+  "note": "Known limitation: 'laptop' only appears in the titles of two laptop backpacks, so the assistant asks which one is meant (no price or availability is claimed) instead of refusing."
+ },
+ {
+  "id": "V35",
+  "type": "unsupported",
+  "question": "where is my order",
+  "expected": "refuse"
+ },
+ {
+  "id": "V36",
+  "type": "unsupported",
+  "question": "apply a coupon code",
+  "expected": "refuse"
+ },
+ {
+  "id": "V37",
+  "type": "unsupported",
+  "question": "do you have any discounts",
+  "expected": "refuse"
+ },
+ {
+  "id": "V38",
+  "type": "unsupported",
+  "question": "can I pay with UPI",
+  "expected": "refuse"
+ },
+ {
+  "id": "V39",
+  "type": "unsupported",
+  "question": "track my package",
+  "expected": "refuse"
+ },
+ {
+  "id": "V40",
+  "type": "unsupported",
+  "question": "login to my account",
+  "expected": "refuse"
+ },
+ {
+  "id": "V41",
+  "type": "policy",
+  "question": "What is your returns policy?",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ]
+ },
+ {
+  "id": "V42",
+  "type": "policy",
+  "question": "how long does shipping take",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ]
+ },
+ {
+  "id": "V43",
+  "type": "policy",
+  "question": "is shipping free?",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ]
+ },
+ {
+  "id": "V44",
+  "type": "policy",
+  "question": "warranty on electronics",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-3"
+  ]
+ },
+ {
+  "id": "V45",
+  "type": "policy",
+  "question": "can I cancel an order",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-4"
+  ]
+ },
+ {
+  "id": "V46",
+  "type": "policy",
+  "question": "how long do refunds take",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ]
+ },
+ {
+  "id": "V47",
+  "type": "policy",
+  "question": "do you ship internationally",
+  "expected": "refuse"
+ },
+ {
+  "id": "V48",
+  "type": "budget",
+  "question": "cotton shirts under 500",
+  "expected": "refuse"
+ },
+ {
+  "id": "V49",
+  "type": "budget",
+  "question": "kurta under 1000",
+  "expected": "refuse"
+ },
+ {
+  "id": "V50",
+  "type": "budget",
+  "question": "yoga mat under 500",
+  "expected": "refuse"
+ },
+ {
+  "id": "V51",
+  "type": "multi_turn",
+  "question": "under ₹3,000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1002",
+   "VRT-1003"
+  ],
+  "history": [
+   "Show me headphones"
+  ]
+ },
+ {
+  "id": "V52",
+  "type": "multi_turn",
+  "question": "under 1500",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8002"
+  ],
+  "history": [
+   "show me backpacks"
+  ]
+ },
+ {
+  "id": "V53",
+  "type": "multi_turn",
+  "question": "under ₹1,500",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2001"
+  ],
+  "history": [
+   "I want cotton shirts"
+  ]
+ }
+]

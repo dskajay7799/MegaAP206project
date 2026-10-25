@@ -1,0 +1,458 @@
+[
+ {
+  "type": "needs_based",
+  "question": "I need a water bottle for hiking",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4001"
+  ],
+  "id": "U001"
+ },
+ {
+  "type": "needs_based",
+  "question": "looking for sandals for the rainy season",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3005"
+  ],
+  "id": "U002"
+ },
+ {
+  "type": "needs_based",
+  "question": "which shirt is good for office",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2001"
+  ],
+  "id": "U003"
+ },
+ {
+  "type": "needs_based",
+  "question": "something to organise my kitchen",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4008"
+  ],
+  "id": "U004"
+ },
+ {
+  "type": "needs_based",
+  "question": "I want to start doing yoga",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6001"
+  ],
+  "id": "U005"
+ },
+ {
+  "type": "needs_based",
+  "question": "a speaker I can take outdoors",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1006"
+  ],
+  "id": "U006"
+ },
+ {
+  "type": "needs_based",
+  "question": "gift for my sister",
+  "expected": "answer",
+  "id": "U007"
+ },
+ {
+  "type": "needs_based",
+  "question": "I need a formal pair of shoes",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3006"
+  ],
+  "id": "U008"
+ },
+ {
+  "type": "needs_based",
+  "question": "bedsheets for my bed",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4007"
+  ],
+  "id": "U009"
+ },
+ {
+  "type": "needs_based",
+  "question": "what do you have for hair care",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5005"
+  ],
+  "id": "U010"
+ },
+ {
+  "type": "typo",
+  "question": "earbudz under 2000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1005"
+  ],
+  "id": "U011"
+ },
+ {
+  "type": "typo",
+  "question": "blutooth speaker",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1006"
+  ],
+  "id": "U012"
+ },
+ {
+  "type": "typo",
+  "question": "wireles mouse",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1010"
+  ],
+  "id": "U013"
+ },
+ {
+  "type": "typo",
+  "question": "skiping rope",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6003"
+  ],
+  "id": "U014"
+ },
+ {
+  "type": "typo",
+  "question": "how do i cancle an order",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-4"
+  ],
+  "id": "U015"
+ },
+ {
+  "type": "hinglish",
+  "question": "sasta power bank dikhao",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1008"
+  ],
+  "id": "U016"
+ },
+ {
+  "type": "hinglish",
+  "question": "mujhe ek notebook chahiye",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7001"
+  ],
+  "id": "U017"
+ },
+ {
+  "type": "hinglish",
+  "question": "warranty kitne din ki hai electronics pe",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-3"
+  ],
+  "id": "U018"
+ },
+ {
+  "type": "price_range",
+  "question": "bottles between 500 and 1000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4001"
+  ],
+  "id": "U019"
+ },
+ {
+  "type": "price_range",
+  "question": "anything under 250",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7005"
+  ],
+  "id": "U020"
+ },
+ {
+  "type": "price_range",
+  "question": "shoes above 3000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3002"
+  ],
+  "id": "U021"
+ },
+ {
+  "type": "price_range",
+  "question": "a kurta under 1500",
+  "expected": "refuse",
+  "id": "U022"
+ },
+ {
+  "type": "price_range",
+  "question": "mouse under ₹1,000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1010"
+  ],
+  "id": "U023"
+ },
+ {
+  "type": "ranking",
+  "question": "which shirt is the cheapest",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2003"
+  ],
+  "id": "U024"
+ },
+ {
+  "type": "ranking",
+  "question": "most expensive shoes",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3006"
+  ],
+  "id": "U025"
+ },
+ {
+  "type": "ranking",
+  "question": "which bag is the lightest",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8003"
+  ],
+  "id": "U026"
+ },
+ {
+  "type": "ranking",
+  "question": "highest rated headphones",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "U027"
+ },
+ {
+  "type": "ranking",
+  "question": "which earbuds charge the fastest",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1005"
+  ],
+  "id": "U028"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the Orbit earbuds have a microphone",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1004"
+  ],
+  "id": "U029"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the Cube speaker waterproof",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1006"
+  ],
+  "id": "U030"
+ },
+ {
+  "type": "feature_question",
+  "question": "how many pages does the notebook have",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7001"
+  ],
+  "id": "U031"
+ },
+ {
+  "type": "feature_question",
+  "question": "what is the SPF of the sunscreen",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5001"
+  ],
+  "id": "U032"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the linen shirt available in M",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2002"
+  ],
+  "id": "U033"
+ },
+ {
+  "type": "feature_question",
+  "question": "what colours does the tote come in",
+  "expected": "refuse",
+  "id": "U034"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the desk lamp dimmable",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4006"
+  ],
+  "id": "U035"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the kettle come with a warranty",
+  "expected": "refuse",
+  "id": "U036"
+ },
+ {
+  "type": "policy_applied",
+  "question": "I bought sneakers 5 days ago, can I return them",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ],
+  "id": "U037"
+ },
+ {
+  "type": "policy_applied",
+  "question": "how long will delivery take",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ],
+  "id": "U038"
+ },
+ {
+  "type": "policy_applied",
+  "question": "is there free shipping on a 999 rupee order",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ],
+  "id": "U039"
+ },
+ {
+  "type": "policy_applied",
+  "question": "who pays for return shipping",
+  "expected": "refuse",
+  "id": "U040"
+ },
+ {
+  "type": "smalltalk",
+  "question": "hello there",
+  "expected": "clarify",
+  "id": "U041"
+ },
+ {
+  "type": "smalltalk",
+  "question": "ok thanks bye",
+  "expected": "clarify",
+  "id": "U042"
+ },
+ {
+  "type": "off_topic",
+  "question": "tell me about the history of india",
+  "expected": "refuse",
+  "id": "U043"
+ },
+ {
+  "type": "off_topic",
+  "question": "can you book me a flight",
+  "expected": "refuse",
+  "id": "U044"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "do you have a washing machine",
+  "expected": "refuse",
+  "id": "U045"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "sunglasses",
+  "expected": "refuse",
+  "id": "U046"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "adidas football shoes",
+  "expected": "refuse",
+  "id": "U047"
+ },
+ {
+  "type": "unsupported",
+  "question": "what is the status of my refund request",
+  "expected": "refuse",
+  "id": "U048"
+ },
+ {
+  "type": "multi_turn",
+  "question": "which one is lighter",
+  "expected": "answer",
+  "history": [
+   "backpacks"
+  ],
+  "id": "U049"
+ },
+ {
+  "type": "multi_turn",
+  "question": "and in navy",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "history": [
+   "laptop backpack"
+  ],
+  "id": "U050"
+ },
+ {
+  "type": "multi_turn",
+  "question": "show me the cheaper ones",
+  "expected": "answer",
+  "history": [
+   "running shoes"
+  ],
+  "id": "U051"
+ },
+ {
+  "type": "multi_turn",
+  "question": "what is the price of the second one",
+  "expected": "answer",
+  "history": [
+   "wireless headphones"
+  ],
+  "id": "U052"
+ },
+ {
+  "type": "multi_turn",
+  "question": "does it have noise cancelling",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "history": [
+   "Halo ANC headphones"
+  ],
+  "id": "U053"
+ },
+ {
+  "type": "multi_turn",
+  "question": "can I return it",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ],
+  "history": [
+   "VRT-3004"
+  ],
+  "id": "U054"
+ }
+]

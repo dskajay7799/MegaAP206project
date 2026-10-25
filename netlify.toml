@@ -1,0 +1,14 @@
+# Static frontend on Netlify, Flask API on Render.
+# Set VERITY_API_BASE (e.g. https://verity-shopping-assistant.onrender.com) in Netlify > Site settings > Environment variables.
+# It is public by design (it is only a URL). Never put API keys here.
+[build]
+  publish = "frontend"
+  command = "printf 'window.VERITY_API_BASE = \"%s\";\\n' \"$VERITY_API_BASE\" > frontend/config.js"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "no-referrer"
+    Content-Security-Policy = "default-src 'self'; img-src 'self' https: data:; style-src 'self'; script-src 'self'; connect-src 'self' https://*.onrender.com; frame-ancestors 'none'"

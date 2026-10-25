@@ -1,0 +1,567 @@
+[
+ {
+  "type": "needs_based",
+  "question": "I'm looking for a lamp for studying at night",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4006"
+  ],
+  "id": "B001"
+ },
+ {
+  "type": "needs_based",
+  "question": "need a bag for the gym and weekend trips",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8004"
+  ],
+  "id": "B002"
+ },
+ {
+  "type": "needs_based",
+  "question": "what can I use to stretch after a workout",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6006"
+  ],
+  "id": "B003"
+ },
+ {
+  "type": "needs_based",
+  "question": "anything to protect my skin from the sun",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5001"
+  ],
+  "id": "B004"
+ },
+ {
+  "type": "needs_based",
+  "question": "I want to make tea at the office",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4004"
+  ],
+  "id": "B005"
+ },
+ {
+  "type": "needs_based",
+  "question": "something to write notes with",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7002"
+  ],
+  "id": "B006"
+ },
+ {
+  "type": "needs_based",
+  "question": "I need a charger for my phone while travelling",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1009"
+  ],
+  "id": "B007"
+ },
+ {
+  "type": "needs_based",
+  "question": "shoes for a wedding",
+  "expected": "clarify",
+  "id": "B008"
+ },
+ {
+  "type": "needs_based",
+  "question": "good earbuds for the gym",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1005"
+  ],
+  "id": "B009"
+ },
+ {
+  "type": "needs_based",
+  "question": "a novel to read",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7004"
+  ],
+  "id": "B010"
+ },
+ {
+  "type": "typo",
+  "question": "hedphones",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "B011"
+ },
+ {
+  "type": "typo",
+  "question": "backpak for laptop",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "B012"
+ },
+ {
+  "type": "typo",
+  "question": "cotten kurta",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2004"
+  ],
+  "id": "B013"
+ },
+ {
+  "type": "typo",
+  "question": "sunscren",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5001"
+  ],
+  "id": "B014"
+ },
+ {
+  "type": "typo",
+  "question": "what's ur refund policy",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ],
+  "id": "B015"
+ },
+ {
+  "type": "typo",
+  "question": "delivry charges",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ],
+  "id": "B016"
+ },
+ {
+  "type": "price_range",
+  "question": "backpacks under 2k",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8002"
+  ],
+  "id": "B017"
+ },
+ {
+  "type": "price_range",
+  "question": "show me stuff between 300 and 500",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7001"
+  ],
+  "id": "B018"
+ },
+ {
+  "type": "price_range",
+  "question": "headphones above 4000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "B019"
+ },
+ {
+  "type": "price_range",
+  "question": "running shoes below 2000 rupees",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3003"
+  ],
+  "id": "B020"
+ },
+ {
+  "type": "price_range",
+  "question": "kettle under 1000",
+  "expected": "refuse",
+  "id": "B021"
+ },
+ {
+  "type": "price_range",
+  "question": "something over 3500",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "B022"
+ },
+ {
+  "type": "ranking",
+  "question": "which earbuds are the lightest",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1005"
+  ],
+  "id": "B023"
+ },
+ {
+  "type": "ranking",
+  "question": "longest lasting power bank",
+  "expected": "refuse",
+  "id": "B024"
+ },
+ {
+  "type": "ranking",
+  "question": "cheapest backpack",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8002"
+  ],
+  "id": "B025"
+ },
+ {
+  "type": "ranking",
+  "question": "highest rated shoes",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3001"
+  ],
+  "id": "B026"
+ },
+ {
+  "type": "ranking",
+  "question": "which mouse has the best battery",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1010"
+  ],
+  "id": "B027"
+ },
+ {
+  "type": "ranking",
+  "question": "what is the most expensive bag",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8004"
+  ],
+  "id": "B028"
+ },
+ {
+  "type": "ranking",
+  "question": "smallest backpack",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8002"
+  ],
+  "id": "B029"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the Tempo Fitness Band water resistant",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1007"
+  ],
+  "id": "B030"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the beard trimmer work without a cord",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5004"
+  ],
+  "id": "B031"
+ },
+ {
+  "type": "feature_question",
+  "question": "can I wash the Glide mouse",
+  "expected": "refuse",
+  "id": "B032"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the fry pan induction compatible",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4003"
+  ],
+  "id": "B033"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the fry pan dishwasher safe",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4003"
+  ],
+  "id": "B034"
+ },
+ {
+  "type": "feature_question",
+  "question": "what size is the football",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6005"
+  ],
+  "id": "B035"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the sunscreen fragrance free",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5001"
+  ],
+  "id": "B036"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the Halo ANC have a microphone",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "B037"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the hoodie available in size L",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2006"
+  ],
+  "id": "B038"
+ },
+ {
+  "type": "feature_question",
+  "question": "do the running shoes come in size 11",
+  "expected": "clarify",
+  "id": "B039"
+ },
+ {
+  "type": "feature_question",
+  "question": "how many compartments does the Metro backpack have",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "B040"
+ },
+ {
+  "type": "policy_applied",
+  "question": "how many days do I have to send something back",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ],
+  "id": "B041"
+ },
+ {
+  "type": "policy_applied",
+  "question": "is delivery free for a 1200 rupee order",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ],
+  "id": "B042"
+ },
+ {
+  "type": "policy_applied",
+  "question": "what does the warranty cover on a T-shirt",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-3"
+  ],
+  "id": "B043"
+ },
+ {
+  "type": "policy_applied",
+  "question": "can I still return something I got 12 days ago",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ],
+  "id": "B044"
+ },
+ {
+  "type": "policy_applied",
+  "question": "do you cover warranty on a yoga mat",
+  "expected": "refuse",
+  "id": "B045"
+ },
+ {
+  "type": "policy_applied",
+  "question": "do you deliver on sundays",
+  "expected": "refuse",
+  "id": "B046"
+ },
+ {
+  "type": "smalltalk",
+  "question": "good morning",
+  "expected": "clarify",
+  "id": "B047"
+ },
+ {
+  "type": "smalltalk",
+  "question": "hey verity",
+  "expected": "clarify",
+  "id": "B048"
+ },
+ {
+  "type": "smalltalk",
+  "question": "thank you!",
+  "expected": "clarify",
+  "id": "B049"
+ },
+ {
+  "type": "smalltalk",
+  "question": "what do you sell",
+  "expected": "clarify",
+  "id": "B050"
+ },
+ {
+  "type": "off_topic",
+  "question": "who won the cricket match yesterday",
+  "expected": "refuse",
+  "id": "B051"
+ },
+ {
+  "type": "off_topic",
+  "question": "what is the capital of France",
+  "expected": "refuse",
+  "id": "B052"
+ },
+ {
+  "type": "off_topic",
+  "question": "write me a poem",
+  "expected": "refuse",
+  "id": "B053"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "do you have a smartwatch",
+  "expected": "refuse",
+  "id": "B054"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "show me televisions",
+  "expected": "refuse",
+  "id": "B055"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "ps5 controller",
+  "expected": "refuse",
+  "id": "B056"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "women's dress under 3000",
+  "expected": "refuse",
+  "id": "B057"
+ },
+ {
+  "type": "multi_turn",
+  "question": "what about under 1500",
+  "expected": "refuse",
+  "history": [
+   "running shoes"
+  ],
+  "id": "B058"
+ },
+ {
+  "type": "multi_turn",
+  "question": "tell me about the second one",
+  "expected": "answer",
+  "history": [
+   "backpacks"
+  ],
+  "id": "B059"
+ },
+ {
+  "type": "multi_turn",
+  "question": "is it in stock",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4004"
+  ],
+  "history": [
+   "electric kettle"
+  ],
+  "id": "B060"
+ },
+ {
+  "type": "multi_turn",
+  "question": "does it come in black",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1010"
+  ],
+  "history": [
+   "Glide mouse"
+  ],
+  "id": "B061"
+ },
+ {
+  "type": "multi_turn",
+  "question": "what's its battery life",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1004"
+  ],
+  "history": [
+   "VRT-1004"
+  ],
+  "id": "B062"
+ },
+ {
+  "type": "multi_turn",
+  "question": "compare them",
+  "expected": "answer",
+  "history": [
+   "wireless headphones"
+  ],
+  "id": "B063"
+ },
+ {
+  "type": "multi_turn",
+  "question": "which is cheaper",
+  "expected": "answer",
+  "history": [
+   "headphones",
+   "earbuds"
+  ],
+  "id": "B064"
+ },
+ {
+  "type": "multi_turn",
+  "question": "and the warranty?",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-3"
+  ],
+  "history": [
+   "VRT-1006"
+  ],
+  "id": "B065"
+ },
+ {
+  "type": "multi_turn",
+  "question": "add it to my cart",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6003"
+  ],
+  "history": [
+   "skipping rope"
+  ],
+  "id": "B066"
+ },
+ {
+  "type": "multi_turn",
+  "question": "only in stock ones",
+  "expected": "answer",
+  "history": [
+   "yoga"
+  ],
+  "id": "B067"
+ }
+]

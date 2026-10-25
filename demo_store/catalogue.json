@@ -1,0 +1,2055 @@
+[
+ {
+  "id": "VRT-1001",
+  "sku": "VRT1001",
+  "title": "Halo ANC Wireless Headphones",
+  "brand": "Halo Audio",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "description": "Over-ear Bluetooth headphones with active noise cancelling and a built-in microphone for calls.",
+  "price": 4999,
+  "rating": 4.4,
+  "specs": {
+   "battery_hours": 40,
+   "charge_time_min": 120,
+   "weight_g": 265,
+   "noise_cancellation": true,
+   "bluetooth": "5.3",
+   "driver_mm": 40,
+   "microphone": true,
+   "wireless": true
+  },
+  "use_cases": [
+   "study",
+   "commute",
+   "travel",
+   "office"
+  ],
+  "highlights": [
+   "Active noise cancelling",
+   "40-hour listed battery life",
+   "Foldable ear cups"
+  ],
+  "featured": true,
+  "added_days_ago": 12,
+  "images": [
+   "/assets/products/VRT-1001-1.svg",
+   "/assets/products/VRT-1001-2.svg",
+   "/assets/products/VRT-1001-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "Black",
+    "Sand"
+   ]
+  },
+  "stock_per_variant": 9,
+  "price_history": [
+   {
+    "days_ago": 90,
+    "price": 5499
+   },
+   {
+    "days_ago": 45,
+    "price": 5299
+   }
+  ]
+ },
+ {
+  "id": "VRT-1002",
+  "sku": "VRT1002",
+  "title": "Pulse Lite Wireless Headphones",
+  "brand": "Pulse",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "description": "Lightweight on-ear Bluetooth headphones for everyday listening. No noise cancelling.",
+  "price": 2499,
+  "rating": 4.1,
+  "specs": {
+   "battery_hours": 30,
+   "charge_time_min": 150,
+   "weight_g": 220,
+   "noise_cancellation": false,
+   "bluetooth": "5.2",
+   "driver_mm": 40,
+   "microphone": true,
+   "wireless": true
+  },
+  "use_cases": [
+   "study",
+   "commute",
+   "gym"
+  ],
+  "highlights": [
+   "30-hour listed battery life",
+   "220 g",
+   "Built-in microphone"
+  ],
+  "featured": false,
+  "added_days_ago": 70,
+  "images": [
+   "/assets/products/VRT-1002-1.svg",
+   "/assets/products/VRT-1002-2.svg",
+   "/assets/products/VRT-1002-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "Black",
+    "Blue"
+   ]
+  },
+  "stock_per_variant": 12,
+  "price_history": [
+   {
+    "days_ago": 100,
+    "price": 2799
+   },
+   {
+    "days_ago": 50,
+    "price": 2599
+   }
+  ]
+ },
+ {
+  "id": "VRT-1003",
+  "sku": "VRT1003",
+  "title": "Tonic Studio Wired Headphones",
+  "brand": "Tonic",
+  "category": "Electronics",
+  "subcategory": "Headphones",
+  "description": "Wired over-ear headphones with a 3.5 mm cable. No battery to charge and no microphone.",
+  "price": 1499,
+  "rating": 4.0,
+  "specs": {
+   "weight_g": 240,
+   "noise_cancellation": false,
+   "microphone": false,
+   "wireless": false
+  },
+  "use_cases": [
+   "study",
+   "office",
+   "home"
+  ],
+  "highlights": [
+   "Wired, nothing to charge",
+   "Closed-back ear cups"
+  ],
+  "featured": false,
+  "added_days_ago": 200,
+  "images": [
+   "/assets/products/VRT-1003-1.svg",
+   "/assets/products/VRT-1003-2.svg",
+   "/assets/products/VRT-1003-3.svg"
+  ],
+  "attributes": {
+   "colour": "Black"
+  },
+  "stock_qty": 18
+ },
+ {
+  "id": "VRT-1004",
+  "sku": "VRT1004",
+  "title": "Orbit True Wireless Earbuds",
+  "brand": "Orbit",
+  "category": "Electronics",
+  "subcategory": "Earbuds",
+  "description": "True wireless earbuds with noise cancelling and a pocket charging case.",
+  "price": 2999,
+  "rating": 4.3,
+  "specs": {
+   "battery_hours": 28,
+   "charge_time_min": 90,
+   "weight_g": 52,
+   "noise_cancellation": true,
+   "water_resistance": "IPX4",
+   "bluetooth": "5.3",
+   "microphone": true,
+   "wireless": true
+  },
+  "use_cases": [
+   "commute",
+   "gym",
+   "travel"
+  ],
+  "highlights": [
+   "28 hours including the case",
+   "IPX4 water resistance",
+   "Active noise cancelling"
+  ],
+  "featured": true,
+  "added_days_ago": 25,
+  "images": [
+   "/assets/products/VRT-1004-1.svg",
+   "/assets/products/VRT-1004-2.svg",
+   "/assets/products/VRT-1004-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "White",
+    "Black"
+   ]
+  },
+  "stock_per_variant": 10
+ },
+ {
+  "id": "VRT-1005",
+  "sku": "VRT1005",
+  "title": "Nimbus Earbuds Mini",
+  "brand": "Nimbus",
+  "category": "Electronics",
+  "subcategory": "Earbuds",
+  "description": "Compact true wireless earbuds with a sweat-resistant build. Currently sold out in the demo store.",
+  "price": 1499,
+  "rating": 4.0,
+  "specs": {
+   "battery_hours": 20,
+   "charge_time_min": 80,
+   "weight_g": 40,
+   "noise_cancellation": false,
+   "water_resistance": "IPX5",
+   "bluetooth": "5.1",
+   "wireless": true
+  },
+  "use_cases": [
+   "gym",
+   "commute"
+  ],
+  "highlights": [
+   "20 hours including the case",
+   "IPX5 water resistance"
+  ],
+  "featured": false,
+  "added_days_ago": 160,
+  "images": [
+   "/assets/products/VRT-1005-1.svg",
+   "/assets/products/VRT-1005-2.svg",
+   "/assets/products/VRT-1005-3.svg"
+  ],
+  "attributes": {
+   "colour": "Black"
+  },
+  "stock_qty": 0
+ },
+ {
+  "id": "VRT-1006",
+  "sku": "VRT1006",
+  "title": "Cube Bluetooth Speaker",
+  "brand": "Cube Labs",
+  "category": "Electronics",
+  "subcategory": "Speakers",
+  "description": "Portable Bluetooth speaker with a dust- and water-resistant body and a carry strap.",
+  "price": 3499,
+  "rating": 4.5,
+  "specs": {
+   "battery_hours": 12,
+   "weight_g": 540,
+   "water_resistance": "IP67",
+   "output_w": 20,
+   "bluetooth": "5.3",
+   "wireless": true
+  },
+  "use_cases": [
+   "home",
+   "outdoor",
+   "travel"
+  ],
+  "highlights": [
+   "IP67 water and dust resistance",
+   "20 W output",
+   "Carry strap"
+  ],
+  "featured": false,
+  "added_days_ago": 40,
+  "images": [
+   "/assets/products/VRT-1006-1.svg",
+   "/assets/products/VRT-1006-2.svg",
+   "/assets/products/VRT-1006-3.svg"
+  ],
+  "attributes": {
+   "colour": "Coral"
+  },
+  "stock_qty": 14
+ },
+ {
+  "id": "VRT-1007",
+  "sku": "VRT1007",
+  "title": "Tempo Fitness Band",
+  "brand": "Tempo",
+  "category": "Electronics",
+  "subcategory": "Smart bands",
+  "description": "Fitness band with a colour display, step counting and a week-long listed battery life.",
+  "price": 2199,
+  "rating": 4.0,
+  "specs": {
+   "battery_hours": 168,
+   "weight_g": 25,
+   "water_resistance": "5 ATM",
+   "wireless": true
+  },
+  "use_cases": [
+   "gym",
+   "running"
+  ],
+  "highlights": [
+   "Seven-day listed battery life",
+   "5 ATM water resistance"
+  ],
+  "featured": false,
+  "added_days_ago": 95,
+  "images": [
+   "/assets/products/VRT-1007-1.svg",
+   "/assets/products/VRT-1007-2.svg",
+   "/assets/products/VRT-1007-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "Teal",
+    "Black"
+   ]
+  },
+  "stock_per_variant": 8
+ },
+ {
+  "id": "VRT-1008",
+  "sku": "VRT1008",
+  "title": "VoltMax 20000 mAh Power Bank",
+  "brand": "VoltMax",
+  "category": "Electronics",
+  "subcategory": "Power banks",
+  "description": "20,000 mAh power bank with three ports and 22.5 W output.",
+  "price": 1799,
+  "rating": 4.2,
+  "specs": {
+   "capacity_mah": 20000,
+   "output_w": 22.5,
+   "weight_g": 440,
+   "ports": 3,
+   "charge_time_min": 400
+  },
+  "use_cases": [
+   "travel",
+   "commute",
+   "office"
+  ],
+  "highlights": [
+   "Three output ports",
+   "22.5 W output"
+  ],
+  "featured": false,
+  "added_days_ago": 55,
+  "images": [
+   "/assets/products/VRT-1008-1.svg",
+   "/assets/products/VRT-1008-2.svg",
+   "/assets/products/VRT-1008-3.svg"
+  ],
+  "stock_qty": 30,
+  "price_history": [
+   {
+    "days_ago": 80,
+    "price": 1999
+   }
+  ]
+ },
+ {
+  "id": "VRT-1009",
+  "sku": "VRT1009",
+  "title": "FastPort 33W USB-C Charger",
+  "brand": "FastPort",
+  "category": "Electronics",
+  "subcategory": "Chargers",
+  "description": "Compact 33 W USB-C wall charger with two ports.",
+  "price": 1099,
+  "rating": 4.3,
+  "specs": {
+   "output_w": 33,
+   "ports": 2,
+   "weight_g": 75
+  },
+  "use_cases": [
+   "travel",
+   "office"
+  ],
+  "highlights": [
+   "33 W output",
+   "Two ports",
+   "75 g"
+  ],
+  "featured": false,
+  "added_days_ago": 18,
+  "images": [
+   "/assets/products/VRT-1009-1.svg",
+   "/assets/products/VRT-1009-2.svg",
+   "/assets/products/VRT-1009-3.svg"
+  ],
+  "stock_qty": 40
+ },
+ {
+  "id": "VRT-1010",
+  "sku": "VRT1010",
+  "title": "Glide Wireless Mouse",
+  "brand": "Glide",
+  "category": "Electronics",
+  "subcategory": "Mouse",
+  "description": "Quiet-click wireless mouse with a Bluetooth connection.",
+  "price": 899,
+  "rating": 4.2,
+  "specs": {
+   "weight_g": 85,
+   "battery_hours": 300,
+   "wireless": true,
+   "bluetooth": "5.0"
+  },
+  "use_cases": [
+   "office",
+   "study"
+  ],
+  "highlights": [
+   "Quiet clicks",
+   "85 g"
+  ],
+  "featured": false,
+  "added_days_ago": 140,
+  "images": [
+   "/assets/products/VRT-1010-1.svg",
+   "/assets/products/VRT-1010-2.svg",
+   "/assets/products/VRT-1010-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "Black",
+    "Grey"
+   ]
+  },
+  "stock_per_variant": 14
+ },
+ {
+  "id": "VRT-2001",
+  "sku": "VRT2001",
+  "title": "Classic White Cotton Shirt",
+  "brand": "Loom & Lane",
+  "category": "Fashion",
+  "subcategory": "Shirts",
+  "description": "Regular-fit cotton shirt with a spread collar.",
+  "price": 1299,
+  "rating": 4.2,
+  "specs": {
+   "cotton_pct": 100,
+   "fabric_gsm": 110,
+   "machine_washable": true,
+   "fit": "Regular"
+  },
+  "use_cases": [
+   "office",
+   "formal"
+  ],
+  "highlights": [
+   "100% cotton",
+   "Machine washable"
+  ],
+  "featured": false,
+  "added_days_ago": 180,
+  "images": [
+   "/assets/products/VRT-2001-1.svg",
+   "/assets/products/VRT-2001-2.svg",
+   "/assets/products/VRT-2001-3.svg"
+  ],
+  "attributes": {
+   "material": "100% cotton"
+  },
+  "options": {
+   "colour": [
+    "White",
+    "Sky Blue"
+   ],
+   "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  "stock_per_variant": 6,
+  "price_history": [
+   {
+    "days_ago": 60,
+    "price": 1499
+   }
+  ]
+ },
+ {
+  "id": "VRT-2002",
+  "sku": "VRT2002",
+  "title": "Linen Blend Casual Shirt",
+  "brand": "Loom & Lane",
+  "category": "Fashion",
+  "subcategory": "Shirts",
+  "description": "Relaxed-fit shirt in a cotton and linen blend.",
+  "price": 1799,
+  "rating": 4.1,
+  "specs": {
+   "cotton_pct": 55,
+   "fabric_gsm": 130,
+   "machine_washable": true,
+   "fit": "Relaxed"
+  },
+  "use_cases": [
+   "casual",
+   "travel"
+  ],
+  "highlights": [
+   "55% cotton, 45% linen",
+   "Relaxed fit"
+  ],
+  "featured": false,
+  "added_days_ago": 88,
+  "images": [
+   "/assets/products/VRT-2002-1.svg",
+   "/assets/products/VRT-2002-2.svg",
+   "/assets/products/VRT-2002-3.svg"
+  ],
+  "attributes": {
+   "material": "55% cotton, 45% linen"
+  },
+  "options": {
+   "colour": [
+    "Beige",
+    "Olive"
+   ],
+   "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  "stock_per_variant": 6
+ },
+ {
+  "id": "VRT-2003",
+  "sku": "VRT2003",
+  "title": "Cotton Crew T-Shirt",
+  "brand": "Loom & Lane",
+  "category": "Fashion",
+  "subcategory": "T-shirts",
+  "description": "Everyday crew-neck t-shirt in heavyweight cotton.",
+  "price": 699,
+  "rating": 4.3,
+  "specs": {
+   "cotton_pct": 100,
+   "fabric_gsm": 180,
+   "machine_washable": true,
+   "fit": "Regular"
+  },
+  "use_cases": [
+   "casual",
+   "daily"
+  ],
+  "highlights": [
+   "100% cotton",
+   "180 GSM"
+  ],
+  "featured": true,
+  "added_days_ago": 210,
+  "images": [
+   "/assets/products/VRT-2003-1.svg",
+   "/assets/products/VRT-2003-2.svg",
+   "/assets/products/VRT-2003-3.svg"
+  ],
+  "attributes": {
+   "material": "100% cotton"
+  },
+  "options": {
+   "colour": [
+    "Black",
+    "White",
+    "Navy",
+    "Grey"
+   ],
+   "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  "stock_per_variant": 5,
+  "price_history": [
+   {
+    "days_ago": 120,
+    "price": 799
+   },
+   {
+    "days_ago": 60,
+    "price": 749
+   }
+  ]
+ },
+ {
+  "id": "VRT-2004",
+  "sku": "VRT2004",
+  "title": "Premium Cotton Kurta",
+  "brand": "Aaravi",
+  "category": "Fashion",
+  "subcategory": "Kurtas",
+  "description": "Straight-cut cotton kurta with a mandarin collar and placket.",
+  "price": 2199,
+  "rating": 4.4,
+  "specs": {
+   "cotton_pct": 100,
+   "fabric_gsm": 140,
+   "machine_washable": true,
+   "fit": "Straight"
+  },
+  "use_cases": [
+   "casual",
+   "gifting"
+  ],
+  "highlights": [
+   "100% cotton",
+   "Mandarin collar"
+  ],
+  "featured": true,
+  "added_days_ago": 20,
+  "images": [
+   "/assets/products/VRT-2004-1.svg",
+   "/assets/products/VRT-2004-2.svg",
+   "/assets/products/VRT-2004-3.svg"
+  ],
+  "attributes": {
+   "material": "100% cotton"
+  },
+  "options": {
+   "colour": [
+    "Indigo",
+    "White"
+   ],
+   "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  "stock_per_variant": 6
+ },
+ {
+  "id": "VRT-2005",
+  "sku": "VRT2005",
+  "title": "Stretch Slim Fit Jeans",
+  "brand": "Denimo",
+  "category": "Fashion",
+  "subcategory": "Jeans",
+  "description": "Slim-fit jeans in stretch denim with a mid rise.",
+  "price": 2299,
+  "rating": 4.0,
+  "specs": {
+   "cotton_pct": 98,
+   "fabric_gsm": 320,
+   "machine_washable": true,
+   "fit": "Slim"
+  },
+  "use_cases": [
+   "casual",
+   "daily"
+  ],
+  "highlights": [
+   "98% cotton, 2% elastane",
+   "Slim fit"
+  ],
+  "featured": false,
+  "added_days_ago": 130,
+  "images": [
+   "/assets/products/VRT-2005-1.svg",
+   "/assets/products/VRT-2005-2.svg",
+   "/assets/products/VRT-2005-3.svg"
+  ],
+  "attributes": {
+   "material": "98% cotton, 2% elastane"
+  },
+  "options": {
+   "colour": [
+    "Indigo",
+    "Black"
+   ],
+   "size": [
+    "28",
+    "30",
+    "32",
+    "34",
+    "36"
+   ]
+  },
+  "stock_per_variant": 3
+ },
+ {
+  "id": "VRT-2006",
+  "sku": "VRT2006",
+  "title": "Fleece Pullover Hoodie",
+  "brand": "Northline",
+  "category": "Fashion",
+  "subcategory": "Hoodies",
+  "description": "Brushed-fleece pullover hoodie with a kangaroo pocket.",
+  "price": 1999,
+  "rating": 4.3,
+  "specs": {
+   "cotton_pct": 80,
+   "fabric_gsm": 320,
+   "machine_washable": true,
+   "fit": "Relaxed"
+  },
+  "use_cases": [
+   "casual",
+   "travel"
+  ],
+  "highlights": [
+   "80% cotton, 20% polyester",
+   "320 GSM fleece"
+  ],
+  "featured": false,
+  "added_days_ago": 33,
+  "images": [
+   "/assets/products/VRT-2006-1.svg",
+   "/assets/products/VRT-2006-2.svg",
+   "/assets/products/VRT-2006-3.svg"
+  ],
+  "attributes": {
+   "material": "80% cotton, 20% polyester"
+  },
+  "options": {
+   "colour": [
+    "Charcoal",
+    "Maroon"
+   ],
+   "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  "stock_per_variant": 6
+ },
+ {
+  "id": "VRT-2007",
+  "sku": "VRT2007",
+  "title": "Quick-Dry Training Tee",
+  "brand": "Flexora",
+  "category": "Fashion",
+  "subcategory": "T-shirts",
+  "description": "Lightweight athletic-fit tee in recycled polyester for workouts.",
+  "price": 899,
+  "rating": 4.2,
+  "specs": {
+   "weight_g": 130,
+   "machine_washable": true,
+   "fit": "Athletic"
+  },
+  "use_cases": [
+   "gym",
+   "running"
+  ],
+  "highlights": [
+   "Recycled polyester",
+   "Quick-dry fabric"
+  ],
+  "featured": false,
+  "added_days_ago": 60,
+  "images": [
+   "/assets/products/VRT-2007-1.svg",
+   "/assets/products/VRT-2007-2.svg",
+   "/assets/products/VRT-2007-3.svg"
+  ],
+  "attributes": {
+   "material": "Recycled polyester"
+  },
+  "options": {
+   "colour": [
+    "Coral",
+    "Blue"
+   ],
+   "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  "stock_per_variant": 6
+ },
+ {
+  "id": "VRT-2008",
+  "sku": "VRT2008",
+  "title": "Lightweight Rain Jacket",
+  "brand": "Northline",
+  "category": "Fashion",
+  "subcategory": "Jackets",
+  "description": "Packable water-resistant jacket with a zip front and hood.",
+  "price": 2799,
+  "rating": 4.1,
+  "specs": {
+   "weight_g": 320,
+   "water_resistant": true,
+   "machine_washable": true
+  },
+  "use_cases": [
+   "monsoon",
+   "travel",
+   "outdoor"
+  ],
+  "highlights": [
+   "Water-resistant shell",
+   "Packable hood"
+  ],
+  "featured": false,
+  "added_days_ago": 9,
+  "images": [
+   "/assets/products/VRT-2008-1.svg",
+   "/assets/products/VRT-2008-2.svg",
+   "/assets/products/VRT-2008-3.svg"
+  ],
+  "attributes": {
+   "material": "Nylon"
+  },
+  "options": {
+   "colour": [
+    "Olive",
+    "Navy"
+   ],
+   "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ]
+  },
+  "stock_per_variant": 6
+ },
+ {
+  "id": "VRT-3001",
+  "sku": "VRT3001",
+  "title": "Aero Run Blue Running Shoe",
+  "brand": "Stridewell",
+  "category": "Footwear",
+  "subcategory": "Running shoes",
+  "description": "Lightweight mesh trainer for road running.",
+  "price": 2499,
+  "rating": 4.4,
+  "specs": {
+   "weight_g": 260,
+   "cushioning": "Medium",
+   "drop_mm": 8
+  },
+  "use_cases": [
+   "running",
+   "gym"
+  ],
+  "highlights": [
+   "Breathable mesh upper",
+   "260 g (UK 8)"
+  ],
+  "featured": true,
+  "added_days_ago": 45,
+  "images": [
+   "/assets/products/VRT-3001-1.svg",
+   "/assets/products/VRT-3001-2.svg",
+   "/assets/products/VRT-3001-3.svg"
+  ],
+  "attributes": {
+   "use": "running",
+   "colour": "Blue"
+  },
+  "options": {
+   "size": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "stock_per_variant": 4
+ },
+ {
+  "id": "VRT-3002",
+  "sku": "VRT3002",
+  "title": "Stride Pro Blue Running Shoe",
+  "brand": "Stridewell",
+  "category": "Footwear",
+  "subcategory": "Running shoes",
+  "description": "Cushioned road shoe with a high-stack midsole.",
+  "price": 3299,
+  "rating": 4.1,
+  "specs": {
+   "weight_g": 285,
+   "cushioning": "High",
+   "drop_mm": 10
+  },
+  "use_cases": [
+   "running"
+  ],
+  "highlights": [
+   "High cushioning",
+   "285 g (UK 8)"
+  ],
+  "featured": false,
+  "added_days_ago": 75,
+  "images": [
+   "/assets/products/VRT-3002-1.svg",
+   "/assets/products/VRT-3002-2.svg",
+   "/assets/products/VRT-3002-3.svg"
+  ],
+  "attributes": {
+   "use": "running",
+   "colour": "Blue"
+  },
+  "options": {
+   "size": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "stock_per_variant": 4
+ },
+ {
+  "id": "VRT-3003",
+  "sku": "VRT3003",
+  "title": "Swift Blue Running Shoe",
+  "brand": "Stridewell",
+  "category": "Footwear",
+  "subcategory": "Running shoes",
+  "description": "Entry-level trainer. Currently sold out in the demo store.",
+  "price": 1899,
+  "rating": 3.9,
+  "specs": {
+   "weight_g": 240,
+   "cushioning": "Low",
+   "drop_mm": 6
+  },
+  "use_cases": [
+   "running",
+   "casual"
+  ],
+  "highlights": [
+   "240 g (UK 8)",
+   "Low-profile midsole"
+  ],
+  "featured": false,
+  "added_days_ago": 190,
+  "images": [
+   "/assets/products/VRT-3003-1.svg",
+   "/assets/products/VRT-3003-2.svg",
+   "/assets/products/VRT-3003-3.svg"
+  ],
+  "attributes": {
+   "use": "running",
+   "colour": "Blue"
+  },
+  "options": {
+   "size": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "stock_per_variant": 0
+ },
+ {
+  "id": "VRT-3004",
+  "sku": "VRT3004",
+  "title": "Daily Canvas Sneakers",
+  "brand": "Kickside",
+  "category": "Footwear",
+  "subcategory": "Sneakers",
+  "description": "Low-top canvas sneakers with a vulcanised sole.",
+  "price": 1599,
+  "rating": 4.2,
+  "specs": {
+   "weight_g": 380
+  },
+  "use_cases": [
+   "casual",
+   "daily"
+  ],
+  "highlights": [
+   "Cotton canvas upper",
+   "Vulcanised rubber sole"
+  ],
+  "featured": false,
+  "added_days_ago": 52,
+  "images": [
+   "/assets/products/VRT-3004-1.svg",
+   "/assets/products/VRT-3004-2.svg",
+   "/assets/products/VRT-3004-3.svg"
+  ],
+  "attributes": {
+   "material": "Cotton canvas"
+  },
+  "options": {
+   "colour": [
+    "White",
+    "Black"
+   ],
+   "size": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "stock_per_variant": 3
+ },
+ {
+  "id": "VRT-3005",
+  "sku": "VRT3005",
+  "title": "Monsoon Slides",
+  "brand": "Kickside",
+  "category": "Footwear",
+  "subcategory": "Sandals",
+  "description": "Quick-drying EVA slides that are easy to wash.",
+  "price": 799,
+  "rating": 4.0,
+  "specs": {
+   "weight_g": 300,
+   "water_resistant": true
+  },
+  "use_cases": [
+   "monsoon",
+   "home",
+   "casual"
+  ],
+  "highlights": [
+   "Quick-drying EVA",
+   "Easy to wash"
+  ],
+  "featured": false,
+  "added_days_ago": 14,
+  "images": [
+   "/assets/products/VRT-3005-1.svg",
+   "/assets/products/VRT-3005-2.svg",
+   "/assets/products/VRT-3005-3.svg"
+  ],
+  "attributes": {
+   "material": "EVA foam"
+  },
+  "options": {
+   "colour": [
+    "Teal",
+    "Navy"
+   ],
+   "size": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "stock_per_variant": 5
+ },
+ {
+  "id": "VRT-3006",
+  "sku": "VRT3006",
+  "title": "Oxford Leather Formal Shoes",
+  "brand": "Brogue & Co",
+  "category": "Footwear",
+  "subcategory": "Formal shoes",
+  "description": "Lace-up oxford shoes with a leather upper and rubber sole.",
+  "price": 3499,
+  "rating": 4.3,
+  "specs": {
+   "weight_g": 620
+  },
+  "use_cases": [
+   "formal",
+   "office"
+  ],
+  "highlights": [
+   "Leather upper",
+   "Cushioned insole"
+  ],
+  "featured": false,
+  "added_days_ago": 105,
+  "images": [
+   "/assets/products/VRT-3006-1.svg",
+   "/assets/products/VRT-3006-2.svg",
+   "/assets/products/VRT-3006-3.svg"
+  ],
+  "attributes": {
+   "material": "Leather"
+  },
+  "options": {
+   "colour": [
+    "Brown",
+    "Black"
+   ],
+   "size": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  "stock_per_variant": 2
+ },
+ {
+  "id": "VRT-4001",
+  "sku": "VRT4001",
+  "title": "Steel Water Bottle 1L",
+  "brand": "Hydra",
+  "category": "Home & Kitchen",
+  "subcategory": "Bottles",
+  "description": "Single-wall stainless steel bottle with a leak-resistant cap. Not insulated.",
+  "price": 599,
+  "rating": 4.2,
+  "specs": {
+   "capacity_ml": 1000,
+   "weight_g": 380,
+   "bpa_free": true
+  },
+  "use_cases": [
+   "gym",
+   "travel",
+   "office",
+   "outdoor"
+  ],
+  "highlights": [
+   "Stainless steel",
+   "1 litre",
+   "BPA-free cap"
+  ],
+  "featured": false,
+  "added_days_ago": 230,
+  "images": [
+   "/assets/products/VRT-4001-1.svg",
+   "/assets/products/VRT-4001-2.svg",
+   "/assets/products/VRT-4001-3.svg"
+  ],
+  "attributes": {
+   "material": "Stainless steel"
+  },
+  "options": {
+   "colour": [
+    "Silver",
+    "Black"
+   ]
+  },
+  "stock_per_variant": 12
+ },
+ {
+  "id": "VRT-4002",
+  "sku": "VRT4002",
+  "title": "Vacuum Insulated Bottle 750 ml",
+  "brand": "Hydra",
+  "category": "Home & Kitchen",
+  "subcategory": "Bottles",
+  "description": "Double-wall vacuum bottle that keeps drinks cold or hot for hours.",
+  "price": 1299,
+  "rating": 4.5,
+  "specs": {
+   "capacity_ml": 750,
+   "insulation_hours": 18,
+   "weight_g": 420,
+   "bpa_free": true
+  },
+  "use_cases": [
+   "travel",
+   "outdoor",
+   "office",
+   "gym"
+  ],
+  "highlights": [
+   "Up to 18 hours listed insulation",
+   "750 ml"
+  ],
+  "featured": true,
+  "added_days_ago": 22,
+  "images": [
+   "/assets/products/VRT-4002-1.svg",
+   "/assets/products/VRT-4002-2.svg",
+   "/assets/products/VRT-4002-3.svg"
+  ],
+  "attributes": {
+   "material": "Stainless steel"
+  },
+  "options": {
+   "colour": [
+    "Teal",
+    "Black"
+   ]
+  },
+  "stock_per_variant": 9,
+  "price_history": [
+   {
+    "days_ago": 70,
+    "price": 1399
+   }
+  ]
+ },
+ {
+  "id": "VRT-4003",
+  "sku": "VRT4003",
+  "title": "Non-Stick Fry Pan 24 cm",
+  "brand": "Kitchenly",
+  "category": "Home & Kitchen",
+  "subcategory": "Cookware",
+  "description": "24 cm non-stick fry pan with a heat-resistant handle.",
+  "price": 999,
+  "rating": 4.0,
+  "specs": {
+   "weight_g": 780,
+   "induction_compatible": true,
+   "dishwasher_safe": false
+  },
+  "use_cases": [
+   "home",
+   "cooking"
+  ],
+  "highlights": [
+   "Induction compatible",
+   "Non-stick coating"
+  ],
+  "featured": false,
+  "added_days_ago": 170,
+  "images": [
+   "/assets/products/VRT-4003-1.svg",
+   "/assets/products/VRT-4003-2.svg",
+   "/assets/products/VRT-4003-3.svg"
+  ],
+  "stock_qty": 22
+ },
+ {
+  "id": "VRT-4004",
+  "sku": "VRT4004",
+  "title": "Electric Kettle 1.5 L",
+  "brand": "Kitchenly",
+  "category": "Home & Kitchen",
+  "subcategory": "Kettles",
+  "description": "1.5 litre electric kettle with auto shut-off.",
+  "price": 1199,
+  "rating": 4.2,
+  "specs": {
+   "capacity_ml": 1500,
+   "power_w": 1500,
+   "weight_g": 900
+  },
+  "use_cases": [
+   "home",
+   "office"
+  ],
+  "highlights": [
+   "1500 W",
+   "Auto shut-off"
+  ],
+  "featured": false,
+  "added_days_ago": 115,
+  "images": [
+   "/assets/products/VRT-4004-1.svg",
+   "/assets/products/VRT-4004-2.svg",
+   "/assets/products/VRT-4004-3.svg"
+  ],
+  "stock_qty": 16
+ },
+ {
+  "id": "VRT-4005",
+  "sku": "VRT4005",
+  "title": "Ceramic Coffee Mug Set of 4",
+  "brand": "Kitchenly",
+  "category": "Home & Kitchen",
+  "subcategory": "Drinkware",
+  "description": "Set of four 300 ml ceramic mugs. Dishwasher safe.",
+  "price": 799,
+  "rating": 4.3,
+  "specs": {
+   "capacity_ml": 300,
+   "dishwasher_safe": true
+  },
+  "use_cases": [
+   "home",
+   "gifting"
+  ],
+  "highlights": [
+   "Set of four",
+   "Dishwasher safe"
+  ],
+  "featured": false,
+  "added_days_ago": 68,
+  "images": [
+   "/assets/products/VRT-4005-1.svg",
+   "/assets/products/VRT-4005-2.svg",
+   "/assets/products/VRT-4005-3.svg"
+  ],
+  "stock_qty": 20
+ },
+ {
+  "id": "VRT-4006",
+  "sku": "VRT4006",
+  "title": "LED Desk Lamp with Dimmer",
+  "brand": "Lumen & Co",
+  "category": "Home & Kitchen",
+  "subcategory": "Lamps",
+  "description": "Adjustable-arm LED desk lamp with a dimmer and three colour temperatures.",
+  "price": 1599,
+  "rating": 4.4,
+  "specs": {
+   "brightness_lumens": 600,
+   "power_w": 9,
+   "weight_g": 750
+  },
+  "use_cases": [
+   "study",
+   "office",
+   "home"
+  ],
+  "highlights": [
+   "600 lumens",
+   "Dimmable",
+   "Adjustable arm"
+  ],
+  "featured": true,
+  "added_days_ago": 30,
+  "images": [
+   "/assets/products/VRT-4006-1.svg",
+   "/assets/products/VRT-4006-2.svg",
+   "/assets/products/VRT-4006-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "Black",
+    "White"
+   ]
+  },
+  "stock_per_variant": 8
+ },
+ {
+  "id": "VRT-4007",
+  "sku": "VRT4007",
+  "title": "Cotton Bedsheet Set (Double)",
+  "brand": "Restwell",
+  "category": "Home & Kitchen",
+  "subcategory": "Bedding",
+  "description": "Double bedsheet with two pillow covers in soft cotton.",
+  "price": 1899,
+  "rating": 4.1,
+  "specs": {
+   "cotton_pct": 100,
+   "fabric_gsm": 180,
+   "machine_washable": true
+  },
+  "use_cases": [
+   "home"
+  ],
+  "highlights": [
+   "100% cotton",
+   "Includes two pillow covers"
+  ],
+  "featured": false,
+  "added_days_ago": 150,
+  "images": [
+   "/assets/products/VRT-4007-1.svg",
+   "/assets/products/VRT-4007-2.svg",
+   "/assets/products/VRT-4007-3.svg"
+  ],
+  "attributes": {
+   "material": "100% cotton"
+  },
+  "options": {
+   "colour": [
+    "Grey",
+    "Teal"
+   ]
+  },
+  "stock_per_variant": 7
+ },
+ {
+  "id": "VRT-4008",
+  "sku": "VRT4008",
+  "title": "Airtight Storage Jars (Set of 3)",
+  "brand": "Kitchenly",
+  "category": "Home & Kitchen",
+  "subcategory": "Storage",
+  "description": "Set of three airtight jars in 500 ml, 750 ml and 1 L sizes. Dishwasher safe.",
+  "price": 699,
+  "rating": 4.2,
+  "specs": {
+   "bpa_free": true,
+   "dishwasher_safe": true
+  },
+  "use_cases": [
+   "home",
+   "cooking"
+  ],
+  "highlights": [
+   "Three sizes",
+   "Airtight lids"
+  ],
+  "featured": false,
+  "added_days_ago": 80,
+  "images": [
+   "/assets/products/VRT-4008-1.svg",
+   "/assets/products/VRT-4008-2.svg",
+   "/assets/products/VRT-4008-3.svg"
+  ],
+  "stock_qty": 25
+ },
+ {
+  "id": "VRT-5001",
+  "sku": "VRT5001",
+  "title": "Daily SPF 50 Sunscreen 50 ml",
+  "brand": "Dewlight",
+  "category": "Beauty & Personal Care",
+  "subcategory": "Sunscreen",
+  "description": "Lightweight daily sunscreen with SPF 50. Fragrance free.",
+  "price": 549,
+  "rating": 4.2,
+  "specs": {
+   "spf": 50,
+   "volume_ml": 50,
+   "fragrance_free": true
+  },
+  "use_cases": [
+   "outdoor",
+   "daily"
+  ],
+  "highlights": [
+   "SPF 50",
+   "Fragrance free"
+  ],
+  "featured": false,
+  "added_days_ago": 35,
+  "images": [
+   "/assets/products/VRT-5001-1.svg",
+   "/assets/products/VRT-5001-2.svg",
+   "/assets/products/VRT-5001-3.svg"
+  ],
+  "stock_qty": 45
+ },
+ {
+  "id": "VRT-5002",
+  "sku": "VRT5002",
+  "title": "Gentle Foaming Face Wash 150 ml",
+  "brand": "Dewlight",
+  "category": "Beauty & Personal Care",
+  "subcategory": "Cleansers",
+  "description": "Gentle foaming face wash for daily use. Fragrance free.",
+  "price": 349,
+  "rating": 4.1,
+  "specs": {
+   "volume_ml": 150,
+   "fragrance_free": true
+  },
+  "use_cases": [
+   "daily"
+  ],
+  "highlights": [
+   "Fragrance free",
+   "Pump bottle"
+  ],
+  "featured": false,
+  "added_days_ago": 120,
+  "images": [
+   "/assets/products/VRT-5002-1.svg",
+   "/assets/products/VRT-5002-2.svg",
+   "/assets/products/VRT-5002-3.svg"
+  ],
+  "stock_qty": 50
+ },
+ {
+  "id": "VRT-5003",
+  "sku": "VRT5003",
+  "title": "Vitamin C Face Serum 30 ml",
+  "brand": "Dewlight",
+  "category": "Beauty & Personal Care",
+  "subcategory": "Serums",
+  "description": "Brightening face serum with vitamin C in a dropper bottle.",
+  "price": 899,
+  "rating": 3.9,
+  "specs": {
+   "volume_ml": 30,
+   "fragrance_free": true
+  },
+  "use_cases": [
+   "daily"
+  ],
+  "highlights": [
+   "30 ml dropper bottle",
+   "Fragrance free"
+  ],
+  "featured": false,
+  "added_days_ago": 100,
+  "images": [
+   "/assets/products/VRT-5003-1.svg",
+   "/assets/products/VRT-5003-2.svg",
+   "/assets/products/VRT-5003-3.svg"
+  ],
+  "stock_qty": 26
+ },
+ {
+  "id": "VRT-5004",
+  "sku": "VRT5004",
+  "title": "Cordless Beard Trimmer",
+  "brand": "Groomwell",
+  "category": "Beauty & Personal Care",
+  "subcategory": "Grooming",
+  "description": "Rechargeable beard trimmer with adjustable combs and a washable head.",
+  "price": 1499,
+  "rating": 4.2,
+  "specs": {
+   "runtime_min": 90,
+   "weight_g": 150,
+   "water_resistant": true,
+   "wireless": true
+  },
+  "use_cases": [
+   "travel",
+   "daily"
+  ],
+  "highlights": [
+   "90-minute listed runtime",
+   "Washable head"
+  ],
+  "featured": false,
+  "added_days_ago": 47,
+  "images": [
+   "/assets/products/VRT-5004-1.svg",
+   "/assets/products/VRT-5004-2.svg",
+   "/assets/products/VRT-5004-3.svg"
+  ],
+  "stock_qty": 19
+ },
+ {
+  "id": "VRT-5005",
+  "sku": "VRT5005",
+  "title": "Herbal Shampoo 340 ml",
+  "brand": "Dewlight",
+  "category": "Beauty & Personal Care",
+  "subcategory": "Hair care",
+  "description": "Everyday herbal shampoo in a flip-cap bottle.",
+  "price": 449,
+  "rating": 4.0,
+  "specs": {
+   "volume_ml": 340
+  },
+  "use_cases": [
+   "daily"
+  ],
+  "highlights": [
+   "340 ml",
+   "Flip-cap bottle"
+  ],
+  "featured": false,
+  "added_days_ago": 140,
+  "images": [
+   "/assets/products/VRT-5005-1.svg",
+   "/assets/products/VRT-5005-2.svg",
+   "/assets/products/VRT-5005-3.svg"
+  ],
+  "stock_qty": 38
+ },
+ {
+  "id": "VRT-6001",
+  "sku": "VRT6001",
+  "title": "Non-Slip Yoga Mat 6 mm",
+  "brand": "Flexora",
+  "category": "Sports & Fitness",
+  "subcategory": "Yoga mats",
+  "description": "6 mm non-slip yoga mat with a carry strap. Currently sold out in the demo store.",
+  "price": 899,
+  "rating": 4.3,
+  "specs": {
+   "thickness_mm": 6,
+   "length_m": 1.83,
+   "weight_g": 1100,
+   "non_slip": true
+  },
+  "use_cases": [
+   "yoga",
+   "home",
+   "gym"
+  ],
+  "highlights": [
+   "6 mm cushioning",
+   "Non-slip surface"
+  ],
+  "featured": false,
+  "added_days_ago": 90,
+  "images": [
+   "/assets/products/VRT-6001-1.svg",
+   "/assets/products/VRT-6001-2.svg",
+   "/assets/products/VRT-6001-3.svg"
+  ],
+  "stock_qty": 0
+ },
+ {
+  "id": "VRT-6002",
+  "sku": "VRT6002",
+  "title": "Adjustable Dumbbell Set 20 kg",
+  "brand": "Flexora",
+  "category": "Sports & Fitness",
+  "subcategory": "Weights",
+  "description": "Adjustable dumbbell set with two handles and plates, up to 20 kg in total.",
+  "price": 3999,
+  "rating": 4.4,
+  "specs": {
+   "max_load_kg": 20
+  },
+  "use_cases": [
+   "gym",
+   "home"
+  ],
+  "highlights": [
+   "Adjustable up to 20 kg",
+   "Knurled grip"
+  ],
+  "featured": false,
+  "added_days_ago": 64,
+  "images": [
+   "/assets/products/VRT-6002-1.svg",
+   "/assets/products/VRT-6002-2.svg",
+   "/assets/products/VRT-6002-3.svg"
+  ],
+  "stock_qty": 4
+ },
+ {
+  "id": "VRT-6003",
+  "sku": "VRT6003",
+  "title": "Speed Skipping Rope",
+  "brand": "Flexora",
+  "category": "Sports & Fitness",
+  "subcategory": "Cardio",
+  "description": "Adjustable speed rope with ball-bearing handles.",
+  "price": 349,
+  "rating": 4.0,
+  "specs": {
+   "length_m": 2.8,
+   "weight_g": 120
+  },
+  "use_cases": [
+   "gym",
+   "running"
+  ],
+  "highlights": [
+   "Adjustable length",
+   "Ball-bearing handles"
+  ],
+  "featured": false,
+  "added_days_ago": 170,
+  "images": [
+   "/assets/products/VRT-6003-1.svg",
+   "/assets/products/VRT-6003-2.svg",
+   "/assets/products/VRT-6003-3.svg"
+  ],
+  "stock_qty": 35
+ },
+ {
+  "id": "VRT-6004",
+  "sku": "VRT6004",
+  "title": "Resistance Bands (Set of 5)",
+  "brand": "Flexora",
+  "category": "Sports & Fitness",
+  "subcategory": "Bands",
+  "description": "Five resistance bands from light to extra heavy, with a carry pouch.",
+  "price": 799,
+  "rating": 4.2,
+  "specs": {
+   "max_load_kg": 35,
+   "weight_g": 300
+  },
+  "use_cases": [
+   "gym",
+   "home",
+   "travel",
+   "yoga"
+  ],
+  "highlights": [
+   "Five resistance levels",
+   "Carry pouch"
+  ],
+  "featured": false,
+  "added_days_ago": 58,
+  "images": [
+   "/assets/products/VRT-6004-1.svg",
+   "/assets/products/VRT-6004-2.svg",
+   "/assets/products/VRT-6004-3.svg"
+  ],
+  "stock_qty": 25
+ },
+ {
+  "id": "VRT-6005",
+  "sku": "VRT6005",
+  "title": "Training Football Size 5",
+  "brand": "Kickside",
+  "category": "Sports & Fitness",
+  "subcategory": "Balls",
+  "description": "Size 5 machine-stitched training football.",
+  "price": 699,
+  "rating": 4.0,
+  "specs": {
+   "weight_g": 430
+  },
+  "use_cases": [
+   "outdoor"
+  ],
+  "highlights": [
+   "Size 5",
+   "Machine stitched"
+  ],
+  "featured": false,
+  "added_days_ago": 205,
+  "images": [
+   "/assets/products/VRT-6005-1.svg",
+   "/assets/products/VRT-6005-2.svg",
+   "/assets/products/VRT-6005-3.svg"
+  ],
+  "stock_qty": 18
+ },
+ {
+  "id": "VRT-6006",
+  "sku": "VRT6006",
+  "title": "Foam Roller 45 cm",
+  "brand": "Flexora",
+  "category": "Sports & Fitness",
+  "subcategory": "Recovery",
+  "description": "45 cm textured foam roller for stretching and recovery.",
+  "price": 999,
+  "rating": 4.1,
+  "specs": {
+   "length_m": 0.45,
+   "max_load_kg": 120,
+   "weight_g": 480
+  },
+  "use_cases": [
+   "gym",
+   "yoga"
+  ],
+  "highlights": [
+   "Textured surface",
+   "45 cm"
+  ],
+  "featured": false,
+  "added_days_ago": 77,
+  "images": [
+   "/assets/products/VRT-6006-1.svg",
+   "/assets/products/VRT-6006-2.svg",
+   "/assets/products/VRT-6006-3.svg"
+  ],
+  "stock_qty": 12
+ },
+ {
+  "id": "VRT-7001",
+  "sku": "VRT7001",
+  "title": "A5 Dotted Notebook (Pack of 2)",
+  "brand": "Inkwell",
+  "category": "Books & Stationery",
+  "subcategory": "Notebooks",
+  "description": "Two A5 dotted notebooks with 100 GSM paper and an elastic closure.",
+  "price": 449,
+  "rating": 4.4,
+  "specs": {
+   "pages": 160,
+   "paper_gsm": 100
+  },
+  "use_cases": [
+   "study",
+   "office"
+  ],
+  "highlights": [
+   "160 pages each",
+   "100 GSM paper"
+  ],
+  "featured": false,
+  "added_days_ago": 26,
+  "images": [
+   "/assets/products/VRT-7001-1.svg",
+   "/assets/products/VRT-7001-2.svg",
+   "/assets/products/VRT-7001-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "Black",
+    "Teal"
+   ]
+  },
+  "stock_per_variant": 30
+ },
+ {
+  "id": "VRT-7002",
+  "sku": "VRT7002",
+  "title": "Gel Pens, Pack of 10",
+  "brand": "Inkwell",
+  "category": "Books & Stationery",
+  "subcategory": "Pens",
+  "description": "Ten smooth-writing gel pens in assorted colours.",
+  "price": 199,
+  "rating": 4.1,
+  "specs": {
+   "refillable": false
+  },
+  "use_cases": [
+   "study",
+   "office"
+  ],
+  "highlights": [
+   "Ten colours",
+   "0.5 mm tip"
+  ],
+  "featured": false,
+  "added_days_ago": 190,
+  "images": [
+   "/assets/products/VRT-7002-1.svg",
+   "/assets/products/VRT-7002-2.svg",
+   "/assets/products/VRT-7002-3.svg"
+  ],
+  "stock_qty": 80
+ },
+ {
+  "id": "VRT-7003",
+  "sku": "VRT7003",
+  "title": "Weekly Planner Desk Pad",
+  "brand": "Inkwell",
+  "category": "Books & Stationery",
+  "subcategory": "Planners",
+  "description": "52-page tear-off weekly planner for your desk.",
+  "price": 349,
+  "rating": 4.0,
+  "specs": {
+   "pages": 52,
+   "paper_gsm": 90
+  },
+  "use_cases": [
+   "study",
+   "office",
+   "home"
+  ],
+  "highlights": [
+   "52 weekly pages",
+   "Tear-off sheets"
+  ],
+  "featured": false,
+  "added_days_ago": 112,
+  "images": [
+   "/assets/products/VRT-7003-1.svg",
+   "/assets/products/VRT-7003-2.svg",
+   "/assets/products/VRT-7003-3.svg"
+  ],
+  "stock_qty": 28
+ },
+ {
+  "id": "VRT-7004",
+  "sku": "VRT7004",
+  "title": "The Quiet Ledger (Novel)",
+  "brand": "Marlow Press",
+  "category": "Books & Stationery",
+  "subcategory": "Books",
+  "description": "A fictional demonstration title: a paperback novel of 312 pages.",
+  "price": 399,
+  "rating": 4.2,
+  "specs": {
+   "pages": 312
+  },
+  "use_cases": [
+   "gifting",
+   "home"
+  ],
+  "highlights": [
+   "Paperback",
+   "312 pages"
+  ],
+  "featured": false,
+  "added_days_ago": 19,
+  "images": [
+   "/assets/products/VRT-7004-1.svg",
+   "/assets/products/VRT-7004-2.svg",
+   "/assets/products/VRT-7004-3.svg"
+  ],
+  "stock_qty": 15
+ },
+ {
+  "id": "VRT-7005",
+  "sku": "VRT7005",
+  "title": "Pastel Highlighter Set (6)",
+  "brand": "Inkwell",
+  "category": "Books & Stationery",
+  "subcategory": "Pens",
+  "description": "Six pastel highlighters with chisel tips.",
+  "price": 249,
+  "rating": 4.1,
+  "specs": {
+   "refillable": false
+  },
+  "use_cases": [
+   "study",
+   "office"
+  ],
+  "highlights": [
+   "Six pastel colours",
+   "Chisel tip"
+  ],
+  "featured": false,
+  "added_days_ago": 84,
+  "images": [
+   "/assets/products/VRT-7005-1.svg",
+   "/assets/products/VRT-7005-2.svg",
+   "/assets/products/VRT-7005-3.svg"
+  ],
+  "stock_qty": 50
+ },
+ {
+  "id": "VRT-8001",
+  "sku": "VRT8001",
+  "title": "Metro Laptop Backpack 25 L",
+  "brand": "Carryall",
+  "category": "Bags",
+  "subcategory": "Backpacks",
+  "description": "25 litre backpack with a padded compartment for laptops up to 15.6 inch and a water-resistant fabric.",
+  "price": 2299,
+  "rating": 4.4,
+  "specs": {
+   "volume_l": 25,
+   "laptop_max_inch": 15.6,
+   "water_resistant": true,
+   "weight_g": 780,
+   "compartments": 4
+  },
+  "use_cases": [
+   "study",
+   "commute",
+   "office",
+   "travel"
+  ],
+  "highlights": [
+   "Fits laptops up to 15.6 inch",
+   "Water-resistant fabric",
+   "Four compartments"
+  ],
+  "featured": true,
+  "added_days_ago": 16,
+  "images": [
+   "/assets/products/VRT-8001-1.svg",
+   "/assets/products/VRT-8001-2.svg",
+   "/assets/products/VRT-8001-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "Black",
+    "Navy"
+   ]
+  },
+  "stock_per_variant": 8
+ },
+ {
+  "id": "VRT-8002",
+  "sku": "VRT8002",
+  "title": "Campus Backpack 20 L",
+  "brand": "Carryall",
+  "category": "Bags",
+  "subcategory": "Backpacks",
+  "description": "20 litre everyday backpack with a padded laptop sleeve for up to 14 inch.",
+  "price": 1299,
+  "rating": 4.1,
+  "specs": {
+   "volume_l": 20,
+   "laptop_max_inch": 14,
+   "water_resistant": false,
+   "weight_g": 600,
+   "compartments": 3
+  },
+  "use_cases": [
+   "study",
+   "commute"
+  ],
+  "highlights": [
+   "Fits laptops up to 14 inch",
+   "Three compartments"
+  ],
+  "featured": false,
+  "added_days_ago": 125,
+  "images": [
+   "/assets/products/VRT-8002-1.svg",
+   "/assets/products/VRT-8002-2.svg",
+   "/assets/products/VRT-8002-3.svg"
+  ],
+  "options": {
+   "colour": [
+    "Grey",
+    "Maroon"
+   ]
+  },
+  "stock_per_variant": 10
+ },
+ {
+  "id": "VRT-8003",
+  "sku": "VRT8003",
+  "title": "Canvas Tote Bag",
+  "brand": "Carryall",
+  "category": "Bags",
+  "subcategory": "Totes",
+  "description": "Roomy cotton canvas tote with an inside pocket.",
+  "price": 599,
+  "rating": 4.0,
+  "specs": {
+   "volume_l": 15,
+   "water_resistant": false,
+   "weight_g": 280
+  },
+  "use_cases": [
+   "casual",
+   "daily"
+  ],
+  "highlights": [
+   "Cotton canvas",
+   "Inside pocket"
+  ],
+  "featured": false,
+  "added_days_ago": 155,
+  "images": [
+   "/assets/products/VRT-8003-1.svg",
+   "/assets/products/VRT-8003-2.svg",
+   "/assets/products/VRT-8003-3.svg"
+  ],
+  "attributes": {
+   "material": "Cotton canvas"
+  },
+  "stock_qty": 40
+ },
+ {
+  "id": "VRT-8004",
+  "sku": "VRT8004",
+  "title": "Weekender Duffel 35 L",
+  "brand": "Carryall",
+  "category": "Bags",
+  "subcategory": "Duffels",
+  "description": "35 litre duffel with a shoe compartment and a detachable shoulder strap.",
+  "price": 2799,
+  "rating": 4.3,
+  "specs": {
+   "volume_l": 35,
+   "water_resistant": true,
+   "weight_g": 950,
+   "compartments": 2
+  },
+  "use_cases": [
+   "gym",
+   "travel"
+  ],
+  "highlights": [
+   "35 litres",
+   "Separate shoe compartment"
+  ],
+  "featured": false,
+  "added_days_ago": 41,
+  "images": [
+   "/assets/products/VRT-8004-1.svg",
+   "/assets/products/VRT-8004-2.svg",
+   "/assets/products/VRT-8004-3.svg"
+  ],
+  "stock_qty": 11
+ }
+]

@@ -1,0 +1,132 @@
+[
+ {
+  "id": "DEV-001",
+  "title": "Aero Run Blue Running Shoe",
+  "category": "Footwear",
+  "price": 2499,
+  "stock": "in_stock",
+  "rating": 4.4,
+  "attributes": {
+   "colour": "blue",
+   "use": "running"
+  },
+  "description": "Lightweight mesh trainer."
+ },
+ {
+  "id": "DEV-002",
+  "title": "Stride Pro Blue Running Shoe",
+  "category": "Footwear",
+  "price": 3299,
+  "stock": "in_stock",
+  "rating": 4.1,
+  "attributes": {
+   "colour": "blue",
+   "use": "running"
+  },
+  "description": "Cushioned road shoe."
+ },
+ {
+  "id": "DEV-003",
+  "title": "Swift Blue Running Shoe",
+  "category": "Footwear",
+  "price": 1899,
+  "stock": "out_of_stock",
+  "rating": 3.9,
+  "attributes": {
+   "colour": "blue",
+   "use": "running"
+  },
+  "description": "Entry-level trainer."
+ },
+ {
+  "id": "DEV-004",
+  "title": "Classic White Cotton Shirt",
+  "category": "Apparel",
+  "price": 1299,
+  "stock": "in_stock",
+  "rating": 4.2,
+  "attributes": {
+   "material": "cotton",
+   "colour": "white"
+  },
+  "description": "Regular-fit shirt."
+ },
+ {
+  "id": "DEV-005",
+  "title": "Linen Blend Casual Shirt",
+  "category": "Apparel",
+  "price": 1799,
+  "stock": "in_stock",
+  "rating": 4.0,
+  "attributes": {
+   "material": "linen cotton blend",
+   "colour": "beige"
+  },
+  "description": "Relaxed shirt."
+ },
+ {
+  "id": "DEV-006",
+  "title": "Cotton Crew T-Shirt",
+  "category": "Apparel",
+  "price": 699,
+  "stock": "in_stock",
+  "rating": 4.3,
+  "attributes": {
+   "material": "cotton",
+   "colour": "grey"
+  },
+  "description": "Everyday tee."
+ },
+ {
+  "id": "DEV-007",
+  "title": "Premium Cotton Kurta",
+  "category": "Apparel",
+  "price": 2199,
+  "stock": "in_stock",
+  "rating": 4.5,
+  "attributes": {
+   "material": "cotton",
+   "colour": "navy"
+  },
+  "description": "Festive kurta."
+ },
+ {
+  "id": "DEV-008",
+  "title": "Wireless Bluetooth Earbuds",
+  "category": "Electronics",
+  "price": 1499,
+  "stock": "in_stock",
+  "rating": 4.0,
+  "attributes": {
+   "battery": "20 hours",
+   "connectivity": "Bluetooth 5.3"
+  },
+  "description": ""
+ },
+ {
+  "id": "DEV-009",
+  "title": "Steel Water Bottle 1L",
+  "category": "Home",
+  "price": 599,
+  "stock": "in_stock",
+  "rating": 4.6,
+  "attributes": {
+   "material": "stainless steel",
+   "capacity": "1 L"
+  },
+  "description": ""
+ },
+ {
+  "id": "DEV-010",
+  "title": "Non-Slip Yoga Mat",
+  "category": "Fitness",
+  "price": 899,
+  "stock": "out_of_stock",
+  "rating": 4.2,
+  "attributes": {
+   "thickness": "6 mm",
+   "material": "TPE"
+  },
+  "description": ""
+ }
+]

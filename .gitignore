@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+eval_report.json
+.pytest_cache/
+eval_report.html
+.venv/
+frontend/config.js.bak
+.env
+.venv/
+venv/
+instance/
+__pycache__/
+*.py[cod]
+.pytest_cache/

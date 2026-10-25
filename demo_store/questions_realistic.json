@@ -1,0 +1,1047 @@
+[
+ {
+  "type": "needs_based",
+  "question": "I need something to listen to music while jogging",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1005"
+  ],
+  "id": "D001"
+ },
+ {
+  "type": "needs_based",
+  "question": "something to carry my laptop",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "D002"
+ },
+ {
+  "type": "needs_based",
+  "question": "gift for my dad under 2000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7004"
+  ],
+  "id": "D003"
+ },
+ {
+  "type": "needs_based",
+  "question": "what should I buy for working out at home",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6004"
+  ],
+  "id": "D004"
+ },
+ {
+  "type": "needs_based",
+  "question": "something for a rainy day",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2008"
+  ],
+  "id": "D005"
+ },
+ {
+  "type": "needs_based",
+  "question": "something for monsoon",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3005"
+  ],
+  "id": "D006"
+ },
+ {
+  "type": "needs_based",
+  "question": "waterproof bag",
+  "expected": "clarify",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "D007"
+ },
+ {
+  "type": "needs_based",
+  "question": "pens for school",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7002"
+  ],
+  "id": "D008"
+ },
+ {
+  "type": "needs_based",
+  "question": "stuff for skin care",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5001"
+  ],
+  "id": "D009"
+ },
+ {
+  "type": "needs_based",
+  "question": "something to keep my drink hot",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4002"
+  ],
+  "id": "D010"
+ },
+ {
+  "type": "needs_based",
+  "question": "a bottle that keeps water cold",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4002"
+  ],
+  "id": "D011"
+ },
+ {
+  "type": "needs_based",
+  "question": "gift ideas for a fitness lover",
+  "expected": "clarify",
+  "id": "D012"
+ },
+ {
+  "type": "needs_based",
+  "question": "best laptop bag for college",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "D013"
+ },
+ {
+  "type": "needs_based",
+  "question": "backpack for travel",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "D014"
+ },
+ {
+  "type": "needs_based",
+  "question": "study desk accessories",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4006"
+  ],
+  "id": "D015"
+ },
+ {
+  "type": "needs_based",
+  "question": "I run every morning and need shoes",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3001"
+  ],
+  "id": "D016"
+ },
+ {
+  "type": "needs_based",
+  "question": "cheap earphones",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1005"
+  ],
+  "id": "D017"
+ },
+ {
+  "type": "needs_based",
+  "question": "do you have anything in teal",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4002"
+  ],
+  "id": "D018"
+ },
+ {
+  "type": "needs_based",
+  "question": "shoes for men",
+  "expected": "clarify",
+  "id": "D019"
+ },
+ {
+  "type": "needs_based",
+  "question": "show me everything in beauty",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-5001"
+  ],
+  "id": "D020"
+ },
+ {
+  "type": "needs_based",
+  "question": "what do you sell",
+  "expected": "clarify",
+  "id": "D021"
+ },
+ {
+  "type": "typo",
+  "question": "noice cancelling headfones",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "D022"
+ },
+ {
+  "type": "typo",
+  "question": "noise cancelling headphones",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "D023"
+ },
+ {
+  "type": "typo",
+  "question": "noise cancelling earbuds",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1004"
+  ],
+  "id": "D024"
+ },
+ {
+  "type": "typo",
+  "question": "wirless hedphones under 3000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1002"
+  ],
+  "id": "D025"
+ },
+ {
+  "type": "typo",
+  "question": "bluetoth speker",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1006"
+  ],
+  "id": "D026"
+ },
+ {
+  "type": "typo",
+  "question": "runing shoes",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3001"
+  ],
+  "id": "D027"
+ },
+ {
+  "type": "typo",
+  "question": "retrun policy",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ],
+  "id": "D028"
+ },
+ {
+  "type": "typo",
+  "question": "shiping time",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ],
+  "id": "D029"
+ },
+ {
+  "type": "typo",
+  "question": "warrenty on electronics",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-3"
+  ],
+  "id": "D030"
+ },
+ {
+  "type": "typo",
+  "question": "yoga matt",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6001"
+  ],
+  "id": "D031"
+ },
+ {
+  "type": "hinglish",
+  "question": "mujhe sasta bluetooth speaker chahiye",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1006"
+  ],
+  "id": "D032"
+ },
+ {
+  "type": "hinglish",
+  "question": "kala joota dikhao",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3004"
+  ],
+  "id": "D033"
+ },
+ {
+  "type": "hinglish",
+  "question": "headphones kitne ke hain",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "D034"
+ },
+ {
+  "type": "hinglish",
+  "question": "paani ki bottle chahiye",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4001"
+  ],
+  "id": "D035"
+ },
+ {
+  "type": "hinglish",
+  "question": "1000 se kam ke joote",
+  "expected": "refuse",
+  "id": "D036"
+ },
+ {
+  "type": "hinglish",
+  "question": "mereko ek backpack chahiye",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "D037"
+ },
+ {
+  "type": "price_range",
+  "question": "items between 500 and 1000 in sports",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6004"
+  ],
+  "id": "D038"
+ },
+ {
+  "type": "price_range",
+  "question": "headphones between 1000 and 3000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1002"
+  ],
+  "id": "D039"
+ },
+ {
+  "type": "price_range",
+  "question": "anything under 300 rupees",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7002"
+  ],
+  "id": "D040"
+ },
+ {
+  "type": "price_range",
+  "question": "anything above 4000",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "D041"
+ },
+ {
+  "type": "price_range",
+  "question": "shoes from 1500 to 2500",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3001"
+  ],
+  "id": "D042"
+ },
+ {
+  "type": "price_range",
+  "question": "laptop backpack under 1000",
+  "expected": "refuse",
+  "id": "D043"
+ },
+ {
+  "type": "price_range",
+  "question": "bluetooth speaker under 3000",
+  "expected": "refuse",
+  "id": "D044"
+ },
+ {
+  "type": "price_range",
+  "question": "red shoes",
+  "expected": "refuse",
+  "id": "D045"
+ },
+ {
+  "type": "ranking",
+  "question": "what is the cheapest thing you sell",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-7002"
+  ],
+  "id": "D046"
+ },
+ {
+  "type": "ranking",
+  "question": "most expensive product",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "D047"
+ },
+ {
+  "type": "ranking",
+  "question": "which headphones have the longest battery",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "D048"
+ },
+ {
+  "type": "ranking",
+  "question": "earbuds with best battery life",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1004"
+  ],
+  "id": "D049"
+ },
+ {
+  "type": "ranking",
+  "question": "highest rated backpack",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "D050"
+ },
+ {
+  "type": "ranking",
+  "question": "most powerful charger",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1009"
+  ],
+  "id": "D051"
+ },
+ {
+  "type": "ranking",
+  "question": "largest backpack",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "D052"
+ },
+ {
+  "type": "ranking",
+  "question": "lightest running shoe",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3003"
+  ],
+  "id": "D053"
+ },
+ {
+  "type": "ranking",
+  "question": "cheapest running shoes",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3003"
+  ],
+  "id": "D054"
+ },
+ {
+  "type": "ranking",
+  "question": "which bottle keeps drinks cold the longest",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4002"
+  ],
+  "id": "D055"
+ },
+ {
+  "type": "policy_applied",
+  "question": "can I return a shirt after 10 days",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ],
+  "id": "D056"
+ },
+ {
+  "type": "policy_applied",
+  "question": "I got a kurta 3 days ago, can I still return it",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-1"
+  ],
+  "id": "D057"
+ },
+ {
+  "type": "policy_applied",
+  "question": "how much is shipping for a 800 rupee order",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ],
+  "id": "D058"
+ },
+ {
+  "type": "policy_applied",
+  "question": "will I pay shipping on a ₹1500 order",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-2"
+  ],
+  "id": "D059"
+ },
+ {
+  "type": "policy_applied",
+  "question": "is there warranty on shoes",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-3"
+  ],
+  "id": "D060"
+ },
+ {
+  "type": "policy_applied",
+  "question": "warranty for headphones",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-3"
+  ],
+  "id": "D061"
+ },
+ {
+  "type": "policy_applied",
+  "question": "how long is the warranty on a kettle",
+  "expected": "refuse",
+  "id": "D062"
+ },
+ {
+  "type": "policy_applied",
+  "question": "can I cancel my order after it's processing",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-4"
+  ],
+  "id": "D063"
+ },
+ {
+  "type": "policy_applied",
+  "question": "do you accept cash on delivery",
+  "expected": "refuse",
+  "id": "D064"
+ },
+ {
+  "type": "policy_applied",
+  "question": "do you offer gift wrapping",
+  "expected": "refuse",
+  "id": "D065"
+ },
+ {
+  "type": "policy_applied",
+  "question": "what if my product arrives damaged",
+  "expected": "refuse",
+  "id": "D066"
+ },
+ {
+  "type": "policy_applied",
+  "question": "do you ship internationally",
+  "expected": "refuse",
+  "id": "D067"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the kettle have auto shut off",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-4004"
+  ],
+  "id": "D068"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the rain jacket waterproof",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2008"
+  ],
+  "id": "D069"
+ },
+ {
+  "type": "feature_question",
+  "question": "how heavy is the dumbbell set",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6002"
+  ],
+  "id": "D070"
+ },
+ {
+  "type": "feature_question",
+  "question": "what's the battery life of the Halo headphones",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "D071"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the Orbit earbuds have noise cancelling",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1004"
+  ],
+  "id": "D072"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the Pulse Lite noise cancelling",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1002"
+  ],
+  "id": "D073"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the Cube speaker have a microphone",
+  "expected": "refuse",
+  "id": "D074"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the yoga mat non slip",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-6001"
+  ],
+  "id": "D075"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the laptop backpack fit a 14 inch laptop",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8001"
+  ],
+  "id": "D076"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the kurta available in size M",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2004"
+  ],
+  "id": "D077"
+ },
+ {
+  "type": "feature_question",
+  "question": "do the jeans come in 32",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2005"
+  ],
+  "id": "D078"
+ },
+ {
+  "type": "feature_question",
+  "question": "jeans in size 40",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2005"
+  ],
+  "id": "D079"
+ },
+ {
+  "type": "feature_question",
+  "question": "does the rain jacket come in red",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2008"
+  ],
+  "id": "D080"
+ },
+ {
+  "type": "feature_question",
+  "question": "what colours does the Halo ANC come in",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "id": "D081"
+ },
+ {
+  "type": "feature_question",
+  "question": "is the Halo ANC good for the gym",
+  "expected": "refuse",
+  "id": "D082"
+ },
+ {
+  "type": "feature_question",
+  "question": "tell me about the Cube speaker",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1006"
+  ],
+  "id": "D083"
+ },
+ {
+  "type": "ambiguous",
+  "question": "compare headphones",
+  "expected": "clarify",
+  "id": "D084"
+ },
+ {
+  "type": "ambiguous",
+  "question": "price of the shirt",
+  "expected": "clarify",
+  "id": "D085"
+ },
+ {
+  "type": "ambiguous",
+  "question": "do you sell laptops",
+  "expected": "clarify",
+  "id": "D086"
+ },
+ {
+  "type": "smalltalk",
+  "question": "hello",
+  "expected": "clarify",
+  "id": "D087"
+ },
+ {
+  "type": "smalltalk",
+  "question": "hi there",
+  "expected": "clarify",
+  "id": "D088"
+ },
+ {
+  "type": "smalltalk",
+  "question": "thanks",
+  "expected": "clarify",
+  "id": "D089"
+ },
+ {
+  "type": "smalltalk",
+  "question": "thank you so much",
+  "expected": "clarify",
+  "id": "D090"
+ },
+ {
+  "type": "smalltalk",
+  "question": "what can you do",
+  "expected": "clarify",
+  "id": "D091"
+ },
+ {
+  "type": "smalltalk",
+  "question": "who are you",
+  "expected": "clarify",
+  "id": "D092"
+ },
+ {
+  "type": "smalltalk",
+  "question": "bye",
+  "expected": "clarify",
+  "id": "D093"
+ },
+ {
+  "type": "smalltalk",
+  "question": "are you a bot",
+  "expected": "clarify",
+  "id": "D094"
+ },
+ {
+  "type": "off_topic",
+  "question": "tell me a joke",
+  "expected": "refuse",
+  "id": "D095"
+ },
+ {
+  "type": "off_topic",
+  "question": "what's the weather today",
+  "expected": "refuse",
+  "id": "D096"
+ },
+ {
+  "type": "off_topic",
+  "question": "who is the prime minister of india",
+  "expected": "refuse",
+  "id": "D097"
+ },
+ {
+  "type": "off_topic",
+  "question": "write a python script to sort a list",
+  "expected": "refuse",
+  "id": "D098"
+ },
+ {
+  "type": "off_topic",
+  "question": "what is 25 times 4",
+  "expected": "refuse",
+  "id": "D099"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "do you sell keyboards",
+  "expected": "refuse",
+  "id": "D100"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "iphone 15 price",
+  "expected": "refuse",
+  "id": "D101"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "i want a gaming laptop",
+  "expected": "refuse",
+  "id": "D102"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "show me sofas",
+  "expected": "refuse",
+  "id": "D103"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "nike shoes under 5000",
+  "expected": "clarify",
+  "id": "D104"
+ },
+ {
+  "type": "out_of_catalogue",
+  "question": "mobile phone cover",
+  "expected": "refuse",
+  "id": "D105"
+ },
+ {
+  "type": "unsupported",
+  "question": "where is my order #1234",
+  "expected": "refuse",
+  "id": "D106"
+ },
+ {
+  "type": "unsupported",
+  "question": "do you have any promo code",
+  "expected": "refuse",
+  "id": "D107"
+ },
+ {
+  "type": "unsupported",
+  "question": "can I pay by credit card",
+  "expected": "refuse",
+  "id": "D108"
+ },
+ {
+  "type": "unsupported",
+  "question": "change my delivery address",
+  "expected": "refuse",
+  "id": "D109"
+ },
+ {
+  "type": "unsupported",
+  "question": "reset my password",
+  "expected": "refuse",
+  "id": "D110"
+ },
+ {
+  "type": "multi_turn",
+  "question": "under 2500",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3001"
+  ],
+  "history": [
+   "running shoes"
+  ],
+  "id": "D111"
+ },
+ {
+  "type": "multi_turn",
+  "question": "which one has the best battery",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "history": [
+   "headphones"
+  ],
+  "id": "D112"
+ },
+ {
+  "type": "multi_turn",
+  "question": "the cheaper one",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1003"
+  ],
+  "history": [
+   "headphones"
+  ],
+  "id": "D113"
+ },
+ {
+  "type": "multi_turn",
+  "question": "tell me more about the first one",
+  "expected": "answer",
+  "history": [
+   "headphones"
+  ],
+  "id": "D114"
+ },
+ {
+  "type": "multi_turn",
+  "question": "compare the first two",
+  "expected": "answer",
+  "history": [
+   "wireless headphones"
+  ],
+  "id": "D115"
+ },
+ {
+  "type": "multi_turn",
+  "question": "and how long is the battery",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1001"
+  ],
+  "history": [
+   "VRT-1001"
+  ],
+  "id": "D116"
+ },
+ {
+  "type": "multi_turn",
+  "question": "what about its warranty",
+  "expected": "answer",
+  "expected_ids": [
+   "POL-3"
+  ],
+  "history": [
+   "VRT-1001"
+  ],
+  "id": "D117"
+ },
+ {
+  "type": "multi_turn",
+  "question": "is it good for the gym",
+  "expected": "refuse",
+  "history": [
+   "VRT-1001"
+  ],
+  "id": "D118"
+ },
+ {
+  "type": "multi_turn",
+  "question": "add the first one to cart",
+  "expected": "answer",
+  "history": [
+   "running shoes"
+  ],
+  "id": "D119"
+ },
+ {
+  "type": "multi_turn",
+  "question": "in blue",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2007"
+  ],
+  "history": [
+   "shirts"
+  ],
+  "id": "D120"
+ },
+ {
+  "type": "multi_turn",
+  "question": "which of these is better",
+  "expected": "answer",
+  "history": [
+   "headphones",
+   "earbuds"
+  ],
+  "id": "D121"
+ },
+ {
+  "type": "multi_turn",
+  "question": "what about sneakers",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3004"
+  ],
+  "history": [
+   "running shoes"
+  ],
+  "id": "D122"
+ },
+ {
+  "type": "multi_turn",
+  "question": "is it available in XL",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-2004"
+  ],
+  "history": [
+   "kurta"
+  ],
+  "id": "D123"
+ },
+ {
+  "type": "multi_turn",
+  "question": "only black ones",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-3004"
+  ],
+  "history": [
+   "shoes"
+  ],
+  "id": "D124"
+ },
+ {
+  "type": "multi_turn",
+  "question": "which one is cheaper",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-8002"
+  ],
+  "history": [
+   "backpack"
+  ],
+  "id": "D125"
+ },
+ {
+  "type": "multi_turn",
+  "question": "is it in stock",
+  "expected": "answer",
+  "expected_ids": [
+   "VRT-1006"
+  ],
+  "history": [
+   "bluetooth speaker"
+  ],
+  "id": "D126"
+ }
+]

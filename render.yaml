@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: verity-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt && python scripts/build_demo_store.py && ALLOW_DEV_DATA=1 python -m backend.manage migrate
+    startCommand: gunicorn backend.app.main:app --workers 2 --bind 0.0.0.0:$PORT --timeout 120
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: ALLOW_DEV_DATA
+        value: "1"
+      - key: SEED_DEMO
+        value: "1"
+      - key: AUTO_MIGRATE
+        value: "1"
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: verity-db
+          property: connectionString
+databases:
+  - name: verity-db
+    databaseName: verity
+    user: verity
