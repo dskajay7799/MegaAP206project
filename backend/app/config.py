@@ -4,9 +4,12 @@ Module-level constants are kept for the pieces that read them directly (the assi
 New application settings live in `load_settings()`, which builds a plain dict that the Flask factory stores in `app.config`;
 tests pass overrides instead of mutating the environment.
 """
+from dotenv import load_dotenv
 import os
 import secrets
 from pathlib import Path
+
+load_dotenv()
 
 ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = Path(os.getenv("DATA_DIR", ROOT / "data"))
@@ -16,7 +19,7 @@ LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
 MAX_MESSAGE_CHARS = int(os.getenv("MAX_MESSAGE_CHARS", "500"))
 FRONTEND_DIR = ROOT / "frontend"
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b")
 DATABASE_URL = os.getenv("DATABASE_URL", "")
 ADMIN_KEY = os.getenv("ADMIN_KEY", "")
 INR_PER_1K_TOKENS = float(os.getenv("INR_PER_1K_TOKENS", "0"))

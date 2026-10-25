@@ -104,14 +104,149 @@ def _polish(assistant, res: dict, question: str, usage: dict) -> str | None:
     return None
 
 
-def generate(assistant, message: str, history: list[str] | None = None, use_llm: bool = True) -> dict:
+def _general_ai(message: str, history: list[str], usage: dict) -> str | None:
+    """Generate a general-purpose response using Groq."""
+
+    messages = [
+        {
+            "role": "system",
+            "content": (
+                "You are Verity, a helpful general-purpose AI assistant "
+                "integrated into an online shopping website. "
+                "Answer educational, programming, science, technology, "
+                "and everyday knowledge questions clearly and accurately. "
+                "Be friendly and explain concepts with examples when useful. "
+                "Never invent product prices, stock availability, orders, "
+                "or store policies. If asked about specific store data, "
+                "explain that the shopping assistant must check its records."
+            ),
+        }
+    ]
+
+    # Include recent user messages as context.
+    for item in history[-6:]:
+        if isinstance(item, str) and item.strip():
+            messages.append({
+                "role": "user",
+                "content": item[:2000],
+            })
+
+    messages.append({
+        "role": "user",
+        "content": message,
+    })
+
+    try:
+        response = requests.post(
+            URL,
+            timeout=20,
+            headers={
+                "Authorization": f"Bearer {config.GROQ_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": config.GROQ_MODEL,
+                "temperature": 0.4,
+                "max_tokens": 700,
+                "messages": messages,
+            },
+        )
+
+        response.raise_for_status()
+        data = response.json()
+
+        usage["llm_calls"] += 1
+        usage["llm_tokens"] += data.get("usage", {}).get("total_tokens", 0)
+
+        answer = data["choices"][0]["message"]["content"].strip()
+        return answer or None
+
+    except Exception as exc:
+        log.warning(
+            "General Groq response unavailable: %s",
+            type(exc).__name__,
+        )
+        return None
+
+
+
+
+
+
+def generate(
+    assistant,
+    message: str,
+    history: list[str] | None = None,
+    use_llm: bool = True,
+) -> dict:
     t = time.perf_counter()
-    res = assistant.respond(message, history or [])
+    history = history or []
     usage = {"llm_calls": 0, "llm_tokens": 0}
+
+    # Get the existing shopping assistant's response first.
+    res = assistant.respond(message, history)
     res["mode"] = "grounded"
-    if use_llm and config.GROQ_API_KEY and res["status"] == "answer":
-        text = _polish(assistant, res, message, usage)
-        if text:
-            res["message"], res["mode"] = text, "ai"
-    res["metrics"] = {"latency_ms": round((time.perf_counter() - t) * 1000, 1), **usage}
+
+    if use_llm and config.GROQ_API_KEY:
+        # Identify clearly general-purpose questions.
+        low = message.lower().strip()
+
+        general_patterns = (
+            "explain ",
+            "what is ",
+            "what are ",
+            "who is ",
+            "who was ",
+            "why does ",
+            "why is ",
+            "how does ",
+            "how do ",
+            "how to ",
+            "teach me ",
+            "define ",
+            "write a program",
+            "write code",
+            "debug ",
+            "solve ",
+            "tell me about ",
+            "what does ",
+            "difference between ",
+        )
+
+        shopping_terms = (
+            "product", "price", "cost", "stock", "available",
+            "cart", "basket", "buy", "purchase", "recommend",
+            "shopping", "store", "refund", "return policy",
+            "delivery", "order", "rating", "discount",
+        )
+
+        is_general = (
+            low.startswith(general_patterns)
+            and not any(term in low for term in shopping_terms)
+        )
+
+        if is_general:
+            text = _general_ai(message, history, usage)
+
+            if text:
+                res["message"] = text
+                res["status"] = "answer"
+                res["mode"] = "ai"
+                res["products"] = []
+                res["citations"] = []
+                res["comparison"] = None
+
+        elif res["status"] == "answer":
+            # Keep the existing verified shopping-answer pipeline.
+            text = _polish(assistant, res, message, usage)
+
+            if text:
+                res["message"] = text
+                res["mode"] = "ai"
+
+    res["metrics"] = {
+        "latency_ms": round((time.perf_counter() - t) * 1000, 1),
+        **usage,
+    }
     return res
+
